@@ -1,0 +1,13 @@
+---
+import { getImage } from 'astro:assets';
+import { media } from '../lib/media';
+import Social from './Social.astro';
+const bg = await getImage({ src: media('2017/01/test_footer2.png')!, width: 1920, format: 'webp', quality: 75 });
+const social = [
+  { href: 'https://www.facebook.com/drmedjuergendahn/', kind: 'facebook' as const },
+  { href: 'https://www.youtube.com/channel/UCsykSI1jc94HkjtBYqTsUVw', kind: 'youtube' as const },
+];
+---
+<footer id="footer" class="site-footer" style={`background-image:url(${bg.src})`}>
+  <div class="inner"><Social items={social} align="right" /></div>
+</footer>

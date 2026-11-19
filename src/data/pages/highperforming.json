@@ -1,0 +1,249 @@
+{
+ "slug": "highperforming",
+ "kind": "post",
+ "title": "High-Performing – Dr. Dahn",
+ "description": "High-Performing: Medizin 1 zu 1. Wahrnehmen. Annehmen. Verändern.\nWir sind davon überzeugt, dass Sie aktiv die Verantwortung für Ihr Wohlbefinden übernehmen können. Unsere Leidenschaft gilt einem sanften und gleichzeitig äusserst wirksamen Ansatz der aktiven Medizin. In Zusammenarbeit mit Caroline Schwenke, ehemaliger Chefärztin und heutiger Mentaltrainerin, bieten wir Ihnen individuelle Unterstützung zur Stärkung Ihrer Selbstkompetenz.Wer profitiert von unserem Angebot?\nWir heissen Menschen willkommen, die danach streben:\nKlar zu denken, zielgerichtet zu handeln und innere Stabilität zu erlangen.\nBeruflich wie privat souverän und erfolgreich zu bleiben – ganz aus Ihrer Kraft und Energie heraus.\nWahre Lebensfreude zu «gspüre», unabhängig von Alter oder Gesundheitszustand, einschliesslich Sportlern und Nicht-Sportlern.\nArbeitgeber, Arbeitnehmer und Privatpersonen, die andere für Gesundheit und bewusstes Leben sensibilisieren möchten.Seien Sie KRAFTVOLL. MUTIG. ZIELORIENTIERT. BEWUSST. Nutzen Sie unsere Erfahrung in Form von massgeschneiderten Vorträgen und Workshops, die Sie dabei unterstützen, aktiv für sich selbst zu sorgen.",
+ "oldUrl": "/highperforming/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2025/07/drd_0001_generative-fill-2.jpg",
+       "alt": "drd 0001 generative fill 2",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "High-Performing",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "kids": [
+        {
+         "t": "box",
+         "row": false,
+         "css": {
+          "padding": "10px 10px 10px 10px"
+         },
+         "kids": [
+          {
+           "t": "box",
+           "row": false,
+           "css": {
+            "padding": "10px 10px 10px 10px",
+            "justify-content": "flex-end"
+           },
+           "kids": [
+            {
+             "css": {},
+             "anchor": null,
+             "t": "text",
+             "html": "<p><strong>Medizin 1 zu 1.</strong></p><p><strong>Wahrnehmen. Annehmen. Verändern.</strong></p><p><strong>Vorträge und Workshops</strong></p><p>In vertrauensvoller Zusammenarbeit mit</p>",
+             "tcss": {
+              "color": "rgb(122, 122, 122)",
+              "font-size": "20px",
+              "line-height": "30px"
+             },
+             "basis": 100.0
+            },
+            {
+             "css": {},
+             "anchor": null,
+             "t": "image",
+             "src": "2025/07/2-copy.jpg",
+             "alt": "2 copy",
+             "caption": "",
+             "href": "https://www.bewusstseinspraxis.ch/",
+             "external": true,
+             "w": 259,
+             "imgW": 259,
+             "imgR": null,
+             "align": "center",
+             "capcss": {},
+             "basis": 22.0
+            },
+            {
+             "css": {},
+             "anchor": null,
+             "t": "text",
+             "html": "<p><strong>Caroline Schwenke</strong><br/><strong>Ehemalige Chefärztin</strong></p><p><strong>&amp; heute <br/>Mentaltrainerin</strong><br/>Zugerstrasse 32<br/>CH – 6340 Baar (ZG)<br/>info@bewusstseinspraxis.ch<br/>Tel. 0041 (0)77 222 04 40</p>",
+             "tcss": {
+              "color": "rgb(122, 122, 122)",
+              "font-size": "20px",
+              "line-height": "30px"
+             },
+             "basis": 100.0
+            }
+           ],
+           "anchor": null,
+           "basis": 100.0
+          },
+          {
+           "css": {},
+           "anchor": null,
+           "t": "text",
+           "html": "<p><strong>Selbstzahlerleistung</strong><br/><strong>Sozial ausgleichender Preis</strong></p><p><strong>VOM »Sorge DU für mich.» <br/>ZUM </strong><strong>«ICH sorge AKTIV für mich».</strong></p><p>Unsere Leidenschaft für Sie,<br/>Unsere individuellen Stärken und Schwerpunkte sowie<br/>Unsere klaren Vorstellungen<br/>von einer <strong>sanften und wirkungsvollen aktiven Medizin werden Sie begeistern.</strong></p><p><strong>Wer darf zu uns kommen?</strong></p><p>Menschen, die wissen, dass sich <strong>Leben</strong> <strong>bewusst schenken lässt.</strong></p><p>Menschen, die wieder <strong>klar denken, gezielt handeln und innerlich stabil sein wollen.</strong></p><p>Menschen, die beruflich als auch privat <strong>souverän und erfolgreich bleiben wollen</strong> – ganz in Ihrer Kraft und Energie.</p><p>Menschen, die <strong>Lebensfreude «gspüre» wollen:</strong><br/>     Ganz Junge, Junge und Ältere.<br/>     Gesunde, weniger Gesunde und nicht-Gesunde.<br/>     Sportler und Nicht-Sportler.</p><p>Arbeitgeber, Arbeitnehmer und Privatmenschen, die andere für <strong>Gesundheit und Bewusst-Sein sensibilisieren wollen.</strong></p><p>Seien Sie<br/><strong>KRAFTVOLL. MUTIG. ZIELORIENTIERT. BEWUSST.</strong></p><p>Nutzen Sie unsere Erfahrung für <strong>Vorträge und Workshops.</strong></p>",
+           "tcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "20px",
+            "line-height": "30px"
+           },
+           "basis": 100.0
+          },
+          {
+           "t": "box",
+           "row": true,
+           "css": {
+            "padding": "10px 10px 10px 10px",
+            "gap": "20px"
+           },
+           "kids": [
+            {
+             "css": {},
+             "anchor": null,
+             "t": "image",
+             "src": "2025/07/drdahn_0001_background.jpg",
+             "alt": "drdahn 0001 background",
+             "caption": "",
+             "href": null,
+             "external": false,
+             "w": 235,
+             "imgW": 235,
+             "imgR": "50%",
+             "align": "center",
+             "capcss": {},
+             "basis": 20.0
+            },
+            {
+             "css": {
+              "padding": "50px 50px 50px 50px"
+             },
+             "anchor": null,
+             "t": "text",
+             "html": "<p><strong>Angebote von Dr. med. Jürgen Dahn</strong></p><p><strong>Elise-Energie</strong><br/>ist wunderbar zart. Sie belebt uns, stärkt unsere Potenzialentfaltung und unterstützt unsere Selbstheilungskräfte.</p><p><strong>Vitamine und Mineralstoffe</strong><br/>unterstützen den Körper bei vielen Erkrankungen und beugen verschiedenen Alterserscheinungen vor.</p><p><strong>Mineralstoff Lithium</strong><br/>Ein Mangel an Lithium spielt bei verschiedenen Erkrankungen eine mitverursachende Rolle.<br/>Lithium kann schon im Kindesalter angewendet werden (Netzwerk JUNO, Dr. med. Michael Nehls).</p><p><strong>Intervall-Hypoxie-Hyperoxie-Therapie (IHHT) <br/>mit ärztlichem 1:1-Training</strong><br/>verbessert die körperliche, psychische und emotionale Leistungsfähigkeit.</p><p><strong>PEP© nach Dr. med. Michael Bohne</strong><br/>zeichnet sich aus durch Leichtigkeit, Zuversicht und Humor. Und dies bei gleichzeitiger Würdigung des vorhandenen Leids.</p>",
+             "tcss": {
+              "color": "rgb(122, 122, 122)",
+              "font-size": "20px",
+              "line-height": "30px"
+             },
+             "basis": 60.0
+            }
+           ],
+           "anchor": null,
+           "basis": 100.0
+          },
+          {
+           "t": "box",
+           "row": true,
+           "css": {
+            "padding": "10px 10px 10px 10px",
+            "gap": "20px"
+           },
+           "kids": [
+            {
+             "css": {},
+             "anchor": null,
+             "t": "image",
+             "src": "2025/07/drdahn_0000_ninjav_s001_s002_t008.02_02_34_01.still017.jpg",
+             "alt": "drdahn 0000 ninjav s001 s002 t008.02 02 34 01.still017",
+             "caption": "",
+             "href": null,
+             "external": false,
+             "w": 235,
+             "imgW": 235,
+             "imgR": "50%",
+             "align": "center",
+             "capcss": {},
+             "basis": 20.0
+            },
+            {
+             "css": {
+              "padding": "0px 0px 0px 50px"
+             },
+             "anchor": null,
+             "t": "text",
+             "html": "<p><strong>Angebote von Caroline Schwenke</strong></p><p><strong>Energie &amp; Leichtigkeit</strong><br/>Wenn Sie nur noch funktionieren und innerlich leer sind, ist es Zeit, sich neu auszurichten.</p><p><strong>Empowerment</strong><br/>Meistern Sie emotionale Belastungen in rechtlichen Angelegenheiten.</p><p><strong>Schwangerschaft &amp; Geburt</strong><br/>Lösen Sie belastende Schwangerschafts- und Geburtserfahrungen.</p><p>Ich begleite Sie mit<br/><strong>Individuellem Coaching</strong><br/><strong>Fundierten Kursen</strong><br/><strong>Strategien, die im Alltag wirken</strong></p><p>Für Mehr<br/><strong>Gelassenheit und starke innere Klarheit.</strong><br/><strong>Souveränität, innere Ruhe und Energie.</strong><br/><strong>Konstruktives Bewusst-Sein.</strong></p>",
+             "tcss": {
+              "color": "rgb(122, 122, 122)",
+              "font-size": "20px",
+              "line-height": "30px"
+             },
+             "basis": 60.0
+            }
+           ],
+           "anchor": null,
+           "basis": 100.0
+          },
+          {
+           "css": {},
+           "anchor": null,
+           "t": "text",
+           "html": "<p><strong>Unsere Statements</strong></p><p><strong>Jürgen Dahn</strong></p><p>Ohne den geringsten Zweifel weiss ich, dass ich (tief in meinem Inneren) <strong>brillant bin.</strong></p><p>Grad weil ich meine, dass ich die Dinge noch viel besser machen kann, gehe ich meinen (ganz) (eigenen) Weg (zielstrebig) (weiter).</p><p><strong>Caroline Schwenke</strong></p><p>Verändern Sie Schritt für Schritt, was Sie belastet.</p><p>Gewinnen Sie Ihre mentale und emotionale Stärke zurück.</p><p>Finden Sie zu sich selbst und Ihrer inneren Mitte.</p><p><strong>Procedere</strong><br/>Bieten Sie sich zu einem Erstgespräch inkl. Untersuchung bitte bei <strong>Dr. med. Jürgen Dahn</strong> auf (online über die Homepage- medicosearch: <strong>«High-Performing: Medizin 1 zu 1»</strong> oder über das Praxistelefon).</p><p>Gemeinsam entscheide ich mit Ihnen nach dem Erstgespräch, mit welchen Zutaten Sie Ihr Leben am Besten verbessern können und welchen Beitrag <strong>Caroline Schwenke</strong> dabei haben wird.</p><p><strong>Sozial ausgleichender Preis</strong><br/>Menschen, die sich den Grundpreis unserer Zukunftswirkstatt nicht leisten können, erhalten eine anteilige Förderung.</p>",
+           "tcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "20px",
+            "line-height": "30px"
+           },
+           "basis": 100.0
+          }
+         ],
+         "anchor": null
+        }
+       ],
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+[
+  { "label": "Home", "href": "/" },
+  { "label": "Video", "href": "/#videoplaylist" },
+  { "label": "Download", "href": "/#downloadbereich" },
+  { "label": "Kontakt", "href": "/#kontakt" },
+  { "label": "Linkseite", "children": [
+    { "label": "Neue Behandlungsangebote", "href": "/#linkseite" },
+    { "label": "Weiterführende Informationen", "href": "/weiterfuehrendeinformationen/" }
+  ]},
+  { "label": "Leistungen", "children": [
+    { "label": "Schmerztherapie", "href": "/#schmerz" },
+    { "label": "Manuelle Medizin", "href": "/#schmerz" },
+    { "label": "Komplementärmedizin", "href": "/#schmerz" },
+    { "label": "High-Performing", "href": "/#high" },
+    { "label": "Hypnotherapie", "href": "/#hypno" },
+    { "label": "Schwangerschaft", "href": "/#schwangerschaft" },
+    { "label": "Lebensphasen", "href": "/#kids_teens_adults" },
+    { "label": "Sportler", "href": "/#sport" },
+    { "label": "Prävention", "href": "/#gesundheit" },
+    { "label": "Rehabilitation", "href": "/#gesundheit" },
+    { "label": "Krebserkrankung", "href": "/#krebs" }
+  ]},
+  { "label": "Über Mich", "href": "/#übermich" },
+  { "label": "Online Terminbuchung", "href": "/#reservierungs" }
+]

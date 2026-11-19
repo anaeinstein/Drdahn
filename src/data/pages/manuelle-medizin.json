@@ -1,0 +1,78 @@
+{
+ "slug": "manuelle-medizin",
+ "kind": "post",
+ "title": "Manuelle Medizin – Dr. Dahn",
+ "description": "Die Ursprünge der Manuellen Medizin lassen sich bis ins Mittelalter zurückverfolgen. In Europa und den USA hat sich die Methode um 1850 etabliert. Wir haben es also mit einer hoch entwickelten Diagnose- und Therapieform zu tun, die sich durch ihre sanften, aber wirkungsvollen Techniken ebenso auszeichnet wie durch ihren Verzicht auf Medikamente oder invasive Methoden.",
+ "oldUrl": "/manuelle-medizin/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/manuelle_medizin-e1483458470347.jpg",
+       "alt": "manuelle_medizin",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Manuelle Medizin",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Die Ursprünge der Manuellen Medizin lassen sich bis ins Mittelalter zurückverfolgen. In Europa und den USA hat sich die Methode um 1850 etabliert. Wir haben es also mit einer hoch entwickelten Diagnose- und Therapieform zu tun, die sich durch ihre sanften, aber wirkungsvollen Techniken ebenso auszeichnet wie durch ihren Verzicht auf Medikamente oder invasive Methoden.</p><p>Ziel der Manuellen Medizin ist die Aktivierung und Stabilisierung Ihrer körperlichen Eigenkräfte. Dies erreichen wir durch eine Diagnostik und Behandlung, die ich nur mit meinen Händen ausführe. Daher eignen sich diese Methoden grundsätzlich für alle Menschen, auch für Säuglinge oder Schwangere.</p><p>Die Manuelle Medizin integriert Methoden der Osteopathie und Chiropraktik. Elemente aus der Ärztlichen Kinesiologie können Diagnostik, Therapie und einen raschen positiven Verlauf unterstützen. Das Bewegungssystem ist mit dem gesamten Organismus verbunden. Manuell kann erfasst werden, was anderen diagnostischen Methoden verborgen bleibt. Die Befundaufnahme erfolgt an der Wirbelsäule, am Schädel, an den inneren Organen und am Nervensystem.</p><p>Mit speziellen Handgriffen lokalisiere ich Bewegungsstörungen und deren Ursache. Zum einen wirkt die Behandlung schmerzlindernd, zum anderen kann ich Blockaden lösen und Verletzungsmuster löschen, damit die Funktion des gesunden Bewegungssystems zurückerlangt wird. Die Manuelle Medizin nimmt somit auch heilenden Einfluss auf Stoffwechsel, Hormon- und Nervensystem.</p><p>Manuelle Medizin behandelt Funktionsstörungen des Bewegungsapparats bei Menschen jeden Alters, wie zum Beispiel:</p><ul><li>Rücken-, Muskel- , Becken- und Gelenkschmerzen</li><li>Schmerzen der Extremitäten</li><li>Schmerzen nach Verletzungen oder Operationen</li><li>Wirbelsäulenfehlstellungen, speziell bei Kindern, Jugendlichen und jungen Erwachsenen</li><li>Haltungsschäden (hier wird zusätzlich mit sensomotorischen Schuheinlagen gearbeitet)</li><li>Kiefergelenkstörungen und Cranio-Mandibuläre Dysfunktion</li></ul><p>Sie ist darüber hinaus hilfreich bei:</p><ul><li>Schwangerschaftswunsch</li><li>Schwangerschaftsbeschwerden</li><li>Beckenfehlstellungen nach Schwangerschaft und Geburt</li><li>Genesung nach schweren Erkrankungen oder Operationen</li><li>Fehlstellungen der Schädelknochen beim Säugling (oftmals Grund für “Schreibaby”)</li><li>Bauchschmerzen sowie Konzentrations- und Koordinationsstörungen, speziell bei Kindern und Jugendlichen</li></ul><p> </p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

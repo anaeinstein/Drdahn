@@ -1,0 +1,102 @@
+{
+ "slug": "saeuglinge-kleinkinder-und-kinder",
+ "kind": "post",
+ "title": "Säuglinge, Kleinkinder und Kinder – Dr. Dahn",
+ "description": "In meiner Praxis heisse ich bereits Säuglinge herzlich willkommen. Schwangerschaft und Geburt setzen den Körper eines Säuglings besonderen Belastungen aus, die nach der Geburt nicht selten in Störungen des Bewegungsapparats und des Verhaltens resultieren.",
+ "oldUrl": "/saeuglinge-kleinkinder-und-kinder/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/kleinkinder-e1483458337994.jpg",
+       "alt": "kleinkinder",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "kids": [
+        {
+         "t": "box",
+         "row": false,
+         "css": {
+          "background-color": "rgb(244, 244, 244)"
+         },
+         "kids": [
+          {
+           "css": {},
+           "anchor": null,
+           "t": "heading",
+           "tag": "h2",
+           "html": "Säuglinge, Kleinkinder und Kinder",
+           "tcss": {
+            "color": "rgb(139, 195, 74)",
+            "font-size": "30px",
+            "font-weight": "500",
+            "line-height": "30px"
+           },
+           "basis": 96.55
+          },
+          {
+           "css": {
+            "padding": "20px 20px 20px 20px",
+            "border": "1px solid rgb(224, 224, 224)"
+           },
+           "anchor": null,
+           "t": "text",
+           "html": "<p>In meiner Praxis heisse ich bereits Säuglinge herzlich willkommen. Schwangerschaft und Geburt setzen den Körper eines Säuglings besonderen Belastungen aus, die nach der Geburt nicht selten in Störungen des Bewegungsapparats und des Verhaltens resultieren.</p><p>Ihr Baby ist unruhig und verkrampft oft seine Händchen? Es schreit viel, ohne dass Sie einen Grund dafür erkennen können? Es hält den Kopf schief oder hat einen einseitig abgeflachten Hinterkopf? Es überstreckt sich und krümmt seinen Körper nach hinten? Es hat Probleme beim Trinken und leidet an Blähungen?</p><p>Viele Symptome können bei Neugeborenen auf eine geburtsbedingte Fehlstellung von knöchernen Strukturen oder eine minime Lageveränderung von Körpergeweben hindeuten. Diese kann die Schädelknochen, die Wirbelsäule, die Gelenke, das Becken, die Rippen oder die Organe im Bauch- und Brustraum betreffen. Mit Manueller Medizin können deutliche Verbesserungen herbeigeführt werden. Nach einer einfachen Diagnostik beginne ich eine sanfte Behandlung, die das Ziel hat, Ihrem Baby die Bewegungsfreiheit zu schenken, die es für seine Entwicklung benötigt.</p><p>Kleinkinder und Kinder liegen mir sehr am Herzen: Wie nebenbei erfüllen sie die enorm wichtige Aufgabe des Grosswerdens. Das ist manchmal gar nicht so einfach, und viele Kinder haben phasenweise Probleme mit dem Sprechen oder Schlafen. Sie zeigen Auffälligkeiten beim Spielen, Rennen oder Hüpfen.</p><p>Es ist sinnvoll, herauszufinden, ob Störungen im Bewegungssystem die Ursache der Entwicklungsschwierigkeiten sind. Bei der Untersuchung Ihres Kindes überprüfe ich nicht nur den körperlichen Zustand, sondern führe auch einfache Übungen zur motorischen Koordination und Konzentration durch. Ich möchte eine genaue Diagnose stellen, um erfolgreich mit Ihrem Kind arbeiten zu können. Neben bewährten Techniken der Manuellen Medizin biete ich Kindern auch Therapieformen wie Homöopathie oder Autogenes Training an.</p>",
+           "tcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "20px",
+            "line-height": "30px"
+           },
+           "basis": 96.55
+          }
+         ],
+         "anchor": null
+        }
+       ],
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

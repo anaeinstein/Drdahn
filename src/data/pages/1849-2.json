@@ -1,0 +1,78 @@
+{
+ "slug": "1849-2",
+ "kind": "post",
+ "title": "Erwachsene & Senioren – Dr. Dahn",
+ "description": "Als erwachsener Mensch stehen Sie mitten im Leben. Vermutlich wissen Sie, was Sie wollen – und was nicht. Krankheiten gehören sicherlich zu letzterem.Fühlen Sie sich nicht gut? Haben Sie Schmerzen in Kopf, Bauch, Brust, den Gelenken oder den Extremitäten?",
+ "oldUrl": "/1849-2/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/erwachsene_senioren-e1483458449411.jpg",
+       "alt": "erwachsene_senioren",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Erwachsene & Senioren",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Als erwachsener Mensch stehen Sie mitten im Leben. Vermutlich wissen Sie, was Sie wollen – und was nicht. Krankheiten gehören sicherlich zu letzterem.</p><p>Fühlen Sie sich nicht gut? Haben Sie Schmerzen in Kopf, Bauch, Brust, den Gelenken oder den Extremitäten? Waren Sie schon bei anderen Ärzten, die jedoch keine eindeutige Diagnose stellen konnten? Müssen Sie Schmerzmedikamente einnehmen, mit denen Sie sich unwohl fühlen?</p><p>Viele Gesundheitsstörungen und Krankheitszustände lassen sich ganz ohne Medikamente behandeln und auch heilen. Komplementärmedizinische Verfahren lindern zahlreiche Beschwerden auf sanfte, unbedenkliche Art und Weise. Manuelle Methoden sind bei der Diagnose und Behandlung vielfältiger Störungen im Bewegungssystem sehr effektiv.</p><p>Mit fortschreitender Lebensdauer erhöht sich das Risiko für Krankheiten wie Krebs, Diabetes oder Störungen im Herz-Kreislauf- und Bewegungssystem. Präventionsmaßnahmen sind empfehlenswert. Mit Techniken der Manuellen Medizin und Komplementärmedizin kann ich Ihren Heilungsverlauf positiv unterstützen. Zudem bin ich auf Schmerztherapie spezialisiert und biete Ihnen darüber hinaus psychische Stärkung an.</p><p>Bei meiner Behandlung suche ich gezielt nach der Ursache Ihrer Beschwerden, anstatt nur die Symptome zu unterdrücken. Ich nehme mir alle Zeit, die nötig ist, um einen auf Sie persönlich zugeschnittenen Therapieplan zu entwickeln.</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

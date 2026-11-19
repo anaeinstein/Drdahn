@@ -1,0 +1,78 @@
+{
+ "slug": "krebspatienten",
+ "kind": "post",
+ "title": "Krebserkankung – Dr. Dahn",
+ "description": "Bei einer Krebserkrankung sind schulmedizinische Methoden wie Operation, Chemotherapie aber auch Bestrahlung notwendig. Diese Behandlungsformen gehen jedoch mit starken Belastungen für den Körper einher. Mit einer sanften Begleitung durch komplementärmedizinische Methoden und Manuelle Medizin können Nebenwirkungen gelindert und ein positiver Heilungsverlauf unterstützt werden.",
+ "oldUrl": "/krebspatienten/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/krebserkrankung-e1685104507225.jpg",
+       "alt": "krebserkrankung",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Krebserkankung",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Bei einer Krebserkrankung sind schulmedizinische Methoden wie Operation, Chemotherapie aber auch Bestrahlung notwendig. Diese Behandlungsformen gehen jedoch mit starken Belastungen für den Körper einher. Mit einer sanften Begleitung durch komplementärmedizinische Methoden und Manuelle Medizin können Nebenwirkungen gelindert und ein positiver Heilungsverlauf unterstützt werden.</p><p>Das komplementärmedizinische Vorgehen bei Krebserkrankungen hat das Ziel, die körpereigenen Kräfte zu aktivieren. Sie als Patient können so “von innen heraus” zu Ihrer Genesung beitragen und die Wirksamkeit der konventionellen Therapie verstärken. Die Integration komplementärmedizinischer Elemente in Ihre Krebstherapie bringt folgende Vorteile:</p><ul><li>Reduzierung von Nebenwirkungen starker Medikamente</li><li>Stabilisierung des physischen und psychischen Allgemeinbefindens</li><li>Verbesserung der Lebensqualität</li><li>Verlängerung der Gesamtlebenszeit</li></ul><p>Eine komplementärmedizinische Begleitung ist sowohl während als auch nach den schulmedizinischen Massnahmen empfehlenswert.</p><p>Ein an Sie angepasstes Bewegungstraining mit Koordinationsübungen aktiviert Ihre Eigenkräfte und wirkt ebenfalls gesundheitsfördernd. Auch mit einer vollwertigen und auf Sie abgestimmten Ernährung lassen sich positive Effekte erzielen. Beim Heilungsprozess nicht zu unterschätzen ist zudem die Kraft der Gedanken.</p><p><strong>Komplementärmedizin bei Krebs. Sie kann die Schulmedizin wirksam unterstützen.<br/> </strong>Hier können Sie alle Vorträge als Mp3 herunterladen:</p><ol><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr001_1.mp3\">Basiswissen.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr002_1.mp3\">Entscheidungshilfen für Chemotherapie, Strahlentherapie, Antihormonelle Therapie (AHT).</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr003_1.mp3\">Komplementärmedizin: Psyche, Aktivität, Ernährung und Stoffwechsel.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr004_1_1.mp3\">Komplementärmedizin: Immunsystem.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr005_1_1.mp3\">Hilfe bei Nebenwirkungen: Chemo- oder Strahlentherapie, Fatigue, Lymphödem.</a>Hier können Sie sich meinen Vortrag als  <a href=\"/#video\">Video anschauen. </a></li></ol><p> </p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

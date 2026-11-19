@@ -1,0 +1,78 @@
+{
+ "slug": "muskel-akupunktur",
+ "kind": "post",
+ "title": "Muskel-Akupunktur – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/muskel-akupunktur/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/sportler-e1483458489928.jpg",
+       "alt": "sportler",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Muskel-Akupunktur",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p><span style=\"font-weight: 400;\">Die Muskel- oder Triggerpunkt-Akupunktur ist eine bewährte Heilmethode aus der Traditionellen Chinesischen Medizin. </span></p><p><span style=\"font-weight: 400;\">Mithilfe einer dünnen Akupunkturnadel werden so genannte “Triggerpunkte” behandelt. Dies sind verkrampfte Bereiche der Muskulatur, die oft nur die Grösse eines Reiskorns haben. Sie senden Schmerzsignale aus, die auch auf andere Körperstellen projiziert werden. Dauerhaft kann dies zu Muskelverhärtungen und chronischen Schmerzen infolge von Über- und Fehlbelastungen führen. </span></p><p><span style=\"font-weight: 400;\">Muskel-Akupunktur eignet sich für die Behandlung einer Vielzahl von Beschwerden, wie zum Beispiel:</span></p><ul><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Kopfschmerzen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Schmerzen an Wirbelsäule, Nacken, Becken und Gelenken</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Bandscheibenprobleme, “Hexenschuss” </span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Muskelverspannungen und -krämpfe</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Nervenschmerzen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">unklare Bauchschmerzen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Schmerzen des Kiefersystems</span></li></ul><p><span style=\"font-weight: 400;\">Durch Impulse, die ich präzise mit der Nadel in den Triggerpunkt setze, tritt eine Muskelentspannung ein, die die Verkrampfung löst und die betroffene Stelle wieder auf gesunde Weise an den Bewegungsabläufen teilnehmen lässt. Die Stiche sind dabei kaum spürbar.<br/> </span><br/> <span style=\"font-weight: 400;\">Die Erfolgsquote der Muskel-Akupunktur liegt Studien zufolge bei 80% und wird von der Weltgesundheitsorganisation (WHO) für viele Krankheitsbilder empfohlen. Besonders bei Wirbelsäulen- und Gelenkstörungen, bei denen keine herkömmliche Therapie greift, können mit der Muskel-Akupunktur beträchtliche Verbesserungen erzielt werden. Dabei ist sie völlig frei von Medikamenten und belastet Ihren Organismus nicht.</span></p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "slug": "1844-2",
+ "kind": "post",
+ "title": "Teens & Twens – Dr. Dahn",
+ "description": "Hey, tschau, was lauft? Okay, die Jugendsprache überlasse ich besser Dir. :-) Mir geht es auch eher darum, Dich zu verstehen. Die Gesundheit von Teens und Twens liegt mir nämlich besonders am Herzen. Erwachsenwerden ist eine Herausforderung, für den Geist ebenso wie für den Körper.",
+ "oldUrl": "/1844-2/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/teens_twens-e1483458747787.jpg",
+       "alt": "young people in the forest",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Teens & Twens",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Hey, tschau, was lauft? Okay, die Jugendsprache überlasse ich besser Dir. :-) Mir geht es auch eher darum, Dich zu verstehen. Die Gesundheit von Teens und Twens liegt mir nämlich besonders am Herzen. Erwachsenwerden ist eine Herausforderung, für den Geist ebenso wie für den Körper.</p><p>Geht es Dir manchmal nicht gut? Hast Du unerklärliche Schmerzen, zum Beispiel in Kopf, Bauch oder Rücken? Für viele Beschwerden können Störungen in Deinem Bewegungssystem die Ursache sein. Durch eine einfache Untersuchung finde ich das heraus. Mit einer gezielten Behandlung und ganz ohne Medikamente kann ich Dich so stärken, dass es Dir bald besser geht.</p><p>Dir fällt auf, dass Du bei der gleichzeitigen Koordination von Armen, Beinen und Kopf mehr Probleme hast als Deine Kollegen? Daran können wir arbeiten! Anhand von simplen Tests überprüfe ich Deine Motorik und helfe Dir, sie zu verbessern. Natürlich gebe ich Dir Eigenübungen mit, mit denen Du Dich zuhause Schritt für Schritt zu einem echten Bewegungs-Ass mausern kannst!</p><p>Das Körperliche ist manchmal gar nicht das Problem, besonders in Deinem Alter. Fühlst Du Dich unglücklich und missverstanden? Hast Du überall Stress? Ich nehme mir Zeit für Dich, Deine Sorgen und Deine Fragen. Und ich kann Dir helfen, Deine Psyche zu stärken. Mit Autogenem Training und Visualisierungen werden positive Gedanken gefördert, die Dir helfen, wieder zu Kraft zu kommen. Du selbst kannst diese Techniken anschließend jederzeit einsetzen. So bist Du bald wieder “cool” und “gechillt”. ;-)</p><p>Ich freue mich, Dich kennenzulernen.</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

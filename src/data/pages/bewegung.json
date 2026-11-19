@@ -1,0 +1,91 @@
+{
+ "slug": "bewegung",
+ "kind": "post",
+ "title": "körperliche Bewegung – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/bewegung/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/sportler-e1483458489928.jpg",
+       "alt": "sportler",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "körperliche Bewegung",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "kids": [
+        {
+         "css": {},
+         "anchor": null,
+         "t": "text",
+         "html": "<span style=\"font-weight: 400;\">Bewegung stärkt Körper und Psyche gleichermassen. Angemessen ausgeübt, fördert körperliche Aktivität Ihre Gesundheit, bringt Ihren Stoffwechsel auf Touren und macht einfach Freude.</span><span style=\"font-weight: 400;\">“Wer rastet, der rostet” – Viele körperliche Beschwerden sind auf mangelnde Bewegung zurückzuführen. Daher ist es wichtig, unseren Alltag mit regelmässigen Zeitfenstern für körperliche Bewegung auszustatten. Sportliche Betätigung fördert die Produktion neuer Nervenzellen und wirkt sich positiv auf das Hormon- und Immunsystem aus. Die vermehrte Produktion von Endorphinen senkt das Schmerzempfinden, hebt die Stimmung und steigert die Lebensqualität. Sport ist somit in jedem Alter ein hervorragendes Mittel, um seine Gesundheit positiv zu unterstützen. </span><span style=\"font-weight: 400;\">Um Muskeln und Gelenke nicht übermässig zu belasten, ist vor Aufnahme einer sportlichen Betätigung eine ärztliche Untersuchung ratsam. Mittels einfacher Tests ermittle ich den Grad Ihrer körperlichen Belastbarkeit und berate Sie gern auch hinsichtlich einer für Sie geeigneten Sportart. </span><span style=\"font-weight: 400;\">Wenn Sie während Ihres Trainings Schmerzen haben, sollte die Ursache hierfür geklärt werden. Oftmals können äusserliche Faktoren wie zu belastende und einseitige Trainingseinheiten oder falsch umgesetzte Bewegungsabläufe der Grund sein. Aber auch Haltungsschäden oder Gelenkfehlstellungen können Schmerzen beim Sport hervorrufen. Diese lassen sich mit einer Vielzahl von Techniken der Manuellen Medizin sowie dem Einsatz von Hilfsmitteln, zum Beispiel sensomotorischen Schuheinlagen oder Tape-Verbänden, behandeln.</span><span style=\"font-weight: 400;\">Auch bei Tumorerkrankungen ist die körperliche Aktivierung in Form von zielgerichteter Gymnastik und moderatem Ausdauersport empfehlenswert. Klinische Langzeitstudien haben ergeben, dass sportliche Aktivität sich ebenso wirkungsvoll auf den Heilungsverlauf auswirkt wie eine Chemotherapie. </span>",
+         "tcss": {
+          "color": "rgb(122, 122, 122)",
+          "font-size": "20px",
+          "line-height": "30px"
+         },
+         "basis": 98.36
+        }
+       ],
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

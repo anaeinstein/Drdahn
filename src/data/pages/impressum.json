@@ -1,0 +1,78 @@
+{
+ "slug": "impressum",
+ "kind": "post",
+ "title": "Impressum – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/impressum/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/impressum-e1483458363385.jpg",
+       "alt": "impressum",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Impressum",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<h4>Kontaktadresse</h4><p>Dr. med. Dahn Schmerztherapie</p><p>Spitalstr. 18<br/> 6210 Sursee</p><p>Tel 041 – 926 71 00<br/> Fax 041 – 926 71 01</p><p><a href=\"mailto:info@drdahn.ch\">info@drdahn.ch</a></p><h4>Haftungsausschluss</h4><p>Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen.</p><p>Haftungsansprüche gegen die Dr. med. Dahn Schmerztherapie wegen materieller oder immaterieller Schäden , welche aus dem Zugriff oder der Nutzung beziehungsweise Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder technische Störungen entstanden sind, werden ausgeschlossen.</p><p>Dr. med. Dahn Schmerztherapie behält es sich ausdrücklich vor, Teile die Seiteninhalte ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.</p><h4>Haftung</h4><p>Diese Website wurde mit grösstmöglicher Sorgfalt zusammengestellt. Trotzdem kann keine Gewähr für die Fehlerfreiheit und Genauigkeit der enthaltenen Informationen übernommen werden. Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortungsbereichs. Der Zugriff und die Nutzung solcher Webseiten erfolgen auf eigene Gefahr des Nutzers oder der Nutzerin.</p><h4>Urheberrechte</h4><p>Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website gehören ausschliesslich der Dr. med. Dahn Schmerztherapie oder den speziell genannten Rechtsinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.</p><h4>E-Mail</h4><p>Bitte beachten Sie, dass die Übermittlung von unverschlüsselten Daten per E-Mail weder geeignet noch sicher ist, um Personendaten oder andere vertrauliche Informationen auszutauschen, da möglicherweise unberechtigte Dritte auf diese Informationen zugreifen und folglich die Daten ohne Ihr Einverständnis sammeln, nutzen oder gar verfälschen können. Wenn Sie mit uns trotzdem via unverschlüsseltem E-Mail Kontakt aufnehmen, gehen wir davon aus, dass Sie diese Art der Kommunikation mit uns explizit wünschen und einverstanden sind, dass wir Ihnen ebenfalls per unverschlüsseltem E-Mail Antwort geben können.</p><h4>Datenschutz</h4><p>Gestützt auf Artikel 13 der schweizerischen Bundesverfassung und die datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch ihrer persönlichen Daten. Dr. med. Dahn Schmerztherapie hält diese Bestimmungen ein und persönliche Daten werden streng vertraulich behandelt und weder an Dritte verkauft noch weiter gegeben.</p><p>In enger Zusammenarbeit mit unseren Hosting-Providern bemühen wir uns, die Datenbanken so gut wie möglich vor fremden Zugriffen, Missbrauch, Verlusten oder vor Fälschung zu schützen.</p><p>Beim Zugriff auf unsere Webseiten werden folgende Daten in Logfiles gespeichert: IP-Adresse, Datum, Uhrzeit, Browser-Anfrage und allgemein übertragene Informationen zum Betriebssystem respektive Browser. Diese Nutzungsdaten bilden die Basis für statistische, anonyme Auswertungen.</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

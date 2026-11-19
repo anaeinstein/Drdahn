@@ -1,0 +1,99 @@
+---
+import { Picture, getImage } from 'astro:assets';
+import { media } from '../lib/media';
+import { styleOf, isHero, isHeroSub } from '../lib/style';
+import Cards from './Cards.astro';
+import Playlist from './Playlist.astro';
+import Social from './Social.astro';
+import Icon from './Icon.astro';
+
+interface Props { node: any; parentRow?: boolean; eager?: boolean }
+const { node: n, parentRow = false, eager = false } = Astro.props;
+
+const basis = parentRow && n.basis ? `--basis:${n.basis}%` : '';
+const id = n.anchor || undefined;
+
+let bgStyle = '';
+if (n.t === 'box' && n.bg) {
+  const img = media(n.bg.src);
+  if (img) {
+    const opt = await getImage({ src: img, width: Math.min(img.width, 1920), format: 'webp', quality: 80 });
+    bgStyle = `background-image:url(${opt.src});background-size:${n.bg.size || 'cover'};background-position:${n.bg.pos || 'center'}`;
+  }
+}
+const img = n.t === 'image' ? media(n.src) : undefined;
+const imgAlign = n.t === 'image' ? (['left', 'start'].includes(n.align) ? 'margin-left:0' : ['right', 'end'].includes(n.align) ? 'margin-right:0' : '') : '';
+const imgStyle = [n.t === 'image' && n.imgW && n.imgW < 1240 ? `max-width:${n.imgW}px` : '', imgAlign].filter(Boolean).join(';');
+const capStyle = n.t === 'image' ? styleOf(n.capcss) : '';
+const b = n.t === 'button' && n.btn ? n.btn : null;
+const btnStyle = b ? `padding:${b.paddingTop} ${b.paddingRight} ${b.paddingBottom} ${b.paddingLeft};font-size:${b.fontSize};border-radius:${b.borderRadius};background-color:${b.backgroundColor};color:${b.color};font-weight:${b.fontWeight}` : '';
+---
+{n.t === 'box' && (
+  <div id={id} class:list={['box', { row: n.row, bg: !!bgStyle }]} style={[styleOf(n.css), basis, bgStyle].filter(Boolean).join(';')}>
+    {n.kids.map((k: any, i: number) => <Astro.self node={k} parentRow={n.row} eager={eager && i === 0} />)}
+  </div>
+)}
+
+{n.t === 'heading' && (
+  <div id={id} class:list={['w', 'w-heading', { h1: n.tag === 'h1' }]} style={[styleOf(n.css, n.tcss), basis].filter(Boolean).join(';')}>
+    {n.tag === 'h1' && <h1 set:html={n.html} />}
+    {n.tag === 'h2' && <h2 set:html={n.html} />}
+    {n.tag === 'h3' && <h3 set:html={n.html} />}
+    {n.tag === 'h4' && <h4 set:html={n.html} />}
+    {!['h1', 'h2', 'h3', 'h4'].includes(n.tag) && <p set:html={n.html} />}
+  </div>
+)}
+
+{n.t === 'text' && (
+  <div id={id} class:list={['w', 'w-text', 'pad-m', { 'hero-title': isHero(n.tcss), 'hero-sub': isHeroSub(n.tcss) }]}
+       style={[styleOf(n.css, n.tcss), basis].filter(Boolean).join(';')} set:html={n.html} />
+)}
+
+{n.t === 'content' && n.html && (
+  <div id={id} class="w w-content w-text pad-m" style={[styleOf(n.css), basis].filter(Boolean).join(';')} set:html={n.html} />
+)}
+
+{n.t === 'image' && img && (
+  <div id={id} class="w w-image" style={[styleOf(n.css), basis].filter(Boolean).join(';')}>
+    <figure style={imgStyle} class="fig">
+      {n.href ? (
+        <a href={n.href} target={n.external ? '_blank' : undefined} rel={n.external ? 'noopener' : undefined}>
+          <Picture src={img} alt={n.alt} formats={['avif', 'webp']} widths={[480, 800, 1280, Math.min(img.width, 1920)]}
+                   sizes={n.imgW && n.imgW < 1240 ? `${n.imgW}px` : '(max-width: 1280px) 100vw, 1280px'} style={n.imgR ? `border-radius:${n.imgR}` : undefined} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} />
+        </a>
+      ) : (
+        <Picture src={img} alt={n.alt} formats={['avif', 'webp']} widths={[480, 800, 1280, Math.min(img.width, 1920)]}
+                 sizes={n.imgW && n.imgW < 1240 ? `${n.imgW}px` : '(max-width: 1280px) 100vw, 1280px'} style={n.imgR ? `border-radius:${n.imgR}` : undefined} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} />
+      )}
+      {n.caption && <figcaption style={capStyle} set:html={n.caption} />}
+    </figure>
+  </div>
+)}
+
+{n.t === 'button' && (
+  <div id={id} class="w w-button" style={[styleOf(n.css), `text-align:${n.align}`, basis].filter(Boolean).join(';')}>
+    <a href={n.href} style={btnStyle} target={n.external ? '_blank' : undefined} rel={n.external ? 'noopener' : undefined}>
+      {n.icon && <Icon name="calendar" />}{n.text}
+    </a>
+  </div>
+)}
+
+{n.t === 'divider' && (
+  <div id={id} class:list={['w', 'w-divider', { plain: !n.icon }]} style={[styleOf(n.css), basis].filter(Boolean).join(';')} aria-hidden="true">
+    {n.icon && <Icon name="hand" />}
+  </div>
+)}
+
+{n.t === 'social' && <Social items={n.items} align={n.align} style={[styleOf(n.css), basis].filter(Boolean).join(';')} />}
+
+{n.t === 'cards' && (
+  <div id={id} class="w" style={[styleOf(n.css), basis].filter(Boolean).join(';')}>
+    <Cards items={n.items} cols={n.cols} />
+  </div>
+)}
+
+{n.t === 'video' && (
+  <div id={id} class="w" style={[styleOf(n.css), basis].filter(Boolean).join(';')}>
+    <Playlist />
+  </div>
+)}

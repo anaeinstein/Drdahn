@@ -1,0 +1,78 @@
+{
+ "slug": "koerperliche-und-geistige-gesundheit",
+ "kind": "post",
+ "title": "Körperliche und geistige Gesundheit – Dr. Dahn",
+ "description": "Die Weltgesundheitsorganisation (WHO) definiert Gesundheit als “Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens und nicht nur das Fehlen von Krankheit oder Gebrechen” (WHO 1948).",
+ "oldUrl": "/koerperliche-und-geistige-gesundheit/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/krperliche_geistige_gesundheit-e1685104355317.jpg",
+       "alt": "koerperliche_geistige_gesundheit",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Körperliche und geistige Gesundheit",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Die Weltgesundheitsorganisation (WHO) definiert Gesundheit als “Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens und nicht nur das Fehlen von Krankheit oder Gebrechen” (WHO 1948). Es reicht also nicht aus, bloss körperlich gesund zu sein. Auch psychische oder soziale Faktoren haben Einfluss auf das Wohlergehen.</p><p>Körper und Geist sind miteinander verbunden und wirken aufeinander ein. Im 17. Jahrhundert verlangte die Philosophie die getrennte Betrachtung von Körper und Geist. Diese Forderung hatte lange Zeit grossen Einfluss auf die Schulmedizin. Die jüngere Forschung und Praxis erkennt jedoch – sehr zum Wohle des Patienten – die enge Verbundenheit von Körper und Geist an und wendet sich zusehends von einer isolierten Betrachtung der beiden Aspekte ab.</p><p>Psychisch belastete und gestresste Menschen haben ein erhöhtes Krankheitsrisiko. Die bei Stress freigesetzten Hormone Adrenalin und Cortisol zum Beispiel beschleunigen den Herzschlag und verursachen auf Dauer Bluthochdruck. Umgekehrt können körperliche Schmerzen die Psyche und das soziale Leben stark niederdrücken. Nicht umsonst sagt man, dass ein gesunder Geist in einem gesunden Körper wohnt. Eine ungesunde Lebensweise sowie soziale Faktoren, auf die wir wenig Einfluss haben, wie Arbeitslosigkeit, Streit oder Trennung, beeinträchtigen Körper und Geist gleichermassen.</p><p>Viele Ärzte behandeln bei Beschwerden nur die körperlichen Symptome. Oft erlebe ich Patienten, die lange mit scheinbar undiagnostizierbaren Beschwerden von Arzt zu Arzt gegangen sind. In mein ganzheitliches Behandlungskonzept integriere ich auch Ansätze, die der geistigen Gesundheit förderlich sind wie:</p><ul><li><a href=\"/psychische-staerkung/\">Stressabbau durch Autogenes Training und Visualisierungstechniken</a></li><li><a href=\"/psychische-staerkung/\">psychische Stärkung und Förderung positiver Gedanken</a></li><li>Bachblüten, <a href=\"/homoeopathie/\">Homöopathie</a></li><li><a href=\"/ernaehrung/\">Ernährungsberatung und -umstellung</a></li><li>und ein offenes Ohr für Ihre Sorgen und Ängste</li></ul><p>Es ist mir ein wichtiges Anliegen, Sie dabei zu unterstützen, optimistisch in die Zukunft blicken zu können.</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

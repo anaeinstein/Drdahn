@@ -1,0 +1,13 @@
+---
+import Icon from './Icon.astro';
+interface Props { items: { href: string; kind: 'facebook' | 'youtube' }[]; align?: string; style?: string }
+const { items, align = 'center', style = '' } = Astro.props;
+const justify = align === 'right' || align === 'end' ? 'flex-end' : align === 'left' || align === 'start' ? 'flex-start' : 'center';
+---
+<div class="w w-social" style={`justify-content:${justify};${style}`}>
+  {items.map((s) => (
+    <a href={s.href} target="_blank" rel="noopener" aria-label={s.kind === 'youtube' ? 'Youtube' : 'Facebook'}>
+      <Icon name={s.kind} />
+    </a>
+  ))}
+</div>

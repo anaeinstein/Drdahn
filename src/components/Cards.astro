@@ -1,0 +1,26 @@
+---
+import { Picture } from 'astro:assets';
+import { media } from '../lib/media';
+interface Props { items: any[]; cols: number }
+const { items, cols } = Astro.props;
+---
+<div class="cards" data-cols={cols} style={`--cols:${cols}`} role="list">
+  {items.map((c) => {
+    const img = media(c.img);
+    return (
+      <article class="card" role="listitem">
+        {img && (
+          <a class="thumb" href={c.href} tabindex="-1" aria-hidden="true">
+            <Picture src={img} alt={c.alt} formats={['avif', 'webp']} widths={[400, 800, 1280]}
+                     sizes={cols === 1 ? '(max-width: 1280px) 100vw, 1250px' : '(max-width: 767px) 100vw, (max-width: 1024px) 50vw, 400px'} loading="lazy" />
+          </a>
+        )}
+        <div class="txt">
+          <h3><a href={c.href}>{c.title}</a></h3>
+          <div class="excerpt" set:html={c.excerpt} />
+          {c.more && <a class="more" href={c.href} aria-label={`Mehr über ${c.title}`}>{c.more}</a>}
+        </div>
+      </article>
+    );
+  })}
+</div>

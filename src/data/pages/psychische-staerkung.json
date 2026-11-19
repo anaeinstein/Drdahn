@@ -1,0 +1,78 @@
+{
+ "slug": "psychische-staerkung",
+ "kind": "post",
+ "title": "Psychische Stärkung – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/psychische-staerkung/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/02/psychischestaerkung.jpg",
+       "alt": "psychischestaerkung",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Psychische Stärkung",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p><span style=\"font-weight: 400;\">In der ganzheitlichen Medizin gilt das psychische Befinden als unverzichtbarer Teil der Gesundheit. Deshalb lasse ich bei meiner Behandlung Ihr psychisches Wohlergehen nicht ausser Acht.</span></p><p><span style=\"font-weight: 400;\">Unsere Gedanken spielen eine entscheidende Rolle für unsere Gesundheit. Zahlreiche wissenschaftliche Studien belegen, dass nicht nur unsere Gefühle und Handlungen, sondern auch die biologischen und chemischen Prozesse in unserem Körper, wie zum Beispiel die vermehrte Produktion des Stresshormons Cortisol, von unseren Gedanken gesteuert werden. Umso wichtiger ist es deshalb, unser Wohlbefinden mit bewusstem positivem Denken zu beeinflussen. Positive Gedanken unterstützen nicht nur unsere psychische Gesundheit. Sie senken den Blutdruck wie auch das Schmerzempfinden und können sogar Krankheiten lindern.</span></p><p><span style=\"font-weight: 400;\">Für die Formulierung positiver Gedanken und die dadurch eintretende Aktivierung der Selbstheilungskräfte gibt es eine Reihe hilfreicher Entspannungs-, Atem- und Visualisierungstechniken. Davon möchte ich Ihnen gern zwei vorstellen, die ich in meiner Praxis anbiete:</span></p><p><span style=\"font-weight: 400;\">Das Autogene Training wurde in den 1930er Jahren von dem Arzt Johannes H. Schultz entwickelt. Aus seinen Hypnoseforschungen war ihm die Wirkung von Suggestionen, also geistig-psychischen Beeinflussungen, bekannt. Die Übungen des Autogenen Trainings sind eine Form der Selbsthypnose. In einer bequemen Körperhaltung versetzen Sie sich in einen körperlichen Ruhezustand, aus dem Sie grosse Kraft schöpfen können. Autogenes Training hilft Menschen jeden Alters, eine Pause von dem Lärm und Stress des Alltags einzulegen. Es kann bei chronischen Schmerzen sowie bei vielen psychischen und psychosomatischen Beschwerden eingesetzt werden.</span></p><p><span style=\"font-weight: 400;\">Die Visualisierung nach Simonton geht auf den amerikanischen Onkologen und Spezialisten für Strahlentherapie Dr. O. Carl Simonton zurück. Er entwickelte aus dem Autogenen Training eine speziell auf Krebspatienten zugeschnittene Entspannungs- und Visualisierungstechnik, die positive Auswirkungen auf den Genesungsprozess haben kann.</span></p><p><span style=\"font-weight: 400;\">Ich biete Ihnen für beide Techniken eine entsprechende Schulung und Begleitung in Einzelsitzungen an. Dabei arbeiten wir hauptsächlich mit Phantasiereisen. Nach einiger Zeit haben Sie die Übungen so verinnerlicht, dass Sie diese bei Bedarf jederzeit in Ihrem Alltag anwenden können.</span></p><p><strong>Besuchen Sie mich hierzu bitte auch auf meinem <a data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/channel/UCsykSI1jc94HkjtBYqTsUVw&amp;source=gmail&amp;ust=1490700701300000&amp;usg=AFQjCNFkrOVnzsNAzrxQzG87Cse6vBOO8Q\" href=\"https://www.youtube.com/channel/UCsykSI1jc94HkjtBYqTsUVw\" rel=\"noopener\" target=\"_blank\">youtube channel. </a></strong></p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

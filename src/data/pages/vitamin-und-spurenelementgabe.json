@@ -1,0 +1,78 @@
+{
+ "slug": "vitamin-und-spurenelementgabe",
+ "kind": "post",
+ "title": "Vitamin- und Spurenelementgabe – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/vitamin-und-spurenelementgabe/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2022/01/sunrise-behind-a-mighty-oak-tree-2021-09-01-04-49-57-utc.jpg",
+       "alt": "dr dahn pop up",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Vitamin- und Spurenelementgabe",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p><span style=\"font-weight: 400;\">Für unseren Organismus und unseren Stoffwechsel sind Vitamine und Spurenelemente unverzichtbar. Sie leisten einen wichtigen Beitrag zu Energiegewinnung, Schadstoffabwehr, Verwertung von Nährstoffen und Steuerung biochemischer Abläufe in den Körperzellen und Organen. </span></p><p><span style=\"font-weight: 400;\">Um ausreichend Vitamine zu erhalten, ist eine ausgewogene Ernährung ratsam. Untersuchungen zufolge besteht bei einem Grossteil der Bevölkerung ein Mangel an Vitaminen wie D, C und B12 sowie Jod, Zink, Folat und Selen. In der Regel sind in den heute erhältlichen Lebensmitteln weniger Vitalstoffe enthalten als dies noch im letzten Jahrhundert der Fall war. </span></p><p><span style=\"font-weight: 400;\">Zudem hat der Körper unter bestimmten Lebensumständen einen erhöhten Nährstoffbedarf, zum Beispiel:</span></p><ul><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">während Schwangerschaft und Stillzeit</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">während der Wachstumsphase bei Kindern und Jugendlichen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">in den Wechseljahren</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">bei Freizeit- und Leistungssportlern</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">in Zeiten von Stress und erhöhter Anstrengung</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">während und nach der Einnahme von Medikamenten oder Hormonen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">während Krankheit</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">vor oder nach operativen Eingriffen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">bei Krebserkrankungen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">vor, während und nach Chemotherapie und Bestrahlung</span></li></ul><p><span style=\"font-weight: 400;\">Wird dieser erhöhte Nährstoffbedarf kurz- und mittelfristig nicht in erforderlichem Masse gedeckt, werden die körpereigenen Speichervorräte verbraucht. Dies äussert sich in unspezifischen Symptomen wie verminderter körperlicher oder psychischer Leistungsfähigkeit und Schlafstörungen. Nach und nach verändert sich der Zellstoffwechsel und es treten weitere Mangelsymptome auf wie:</span></p><ul><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Infektanfälligkeit</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Müdigkeit, Nervosität oder Reizbarkeit</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Kopfschmerzen</span></li></ul><p><span style=\"font-weight: 400;\">Die Orthomolekulare Therapie wurde von dem zweifachen Nobelpreisträger Linus Pauling begründet. Sie begreift diese Beschwerden als biochemisches Ungleichgewicht im Körper, das durch die Gabe von Vitaminen und Spurenelementen kompensiert werden kann. Dabei ist eine langfristige Einnahme nur selten notwendig. Im Vorfeld Ihrer Behandlung wird anhand von Laboruntersuchungen Ihr Vitaminstatus festgestellt, damit ich eine individuell auf Sie zugeschnittene Dosierung entwickeln kann. </span></p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

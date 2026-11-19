@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro';
+import Page from '../components/Page.astro';
+import Popup from '../components/Popup.astro';
+import page from '../data/pages/home.json';
+---
+<Base title={page.title} description={page.description}>
+  <Page page={page} />
+  <Popup slot="after" />
+</Base>

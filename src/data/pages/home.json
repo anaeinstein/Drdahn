@@ -1,0 +1,916 @@
+{
+ "slug": "home",
+ "kind": "page",
+ "title": "Dr. Dahn – Schmerztherapie Sursee",
+ "description": "",
+ "oldUrl": "/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(234, 234, 234)"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "padding": "0px 10px 0px 10px",
+      "min-height": "676px",
+      "justify-content": "flex-end"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "0px 0px 0px 50px"
+       },
+       "anchor": null,
+       "t": "text",
+       "html": "<p>Dr. med. Jürgen Dahn</p>",
+       "tcss": {
+        "color": "rgb(0, 0, 0)",
+        "font-size": "34px",
+        "font-weight": "700",
+        "line-height": "20px"
+       },
+       "basis": 30.92
+      },
+      {
+       "css": {
+        "padding": "0px 0px 100px 50px"
+       },
+       "anchor": null,
+       "t": "text",
+       "html": "<p>SCHMERZTHERAPIE. MANUELLE MEDIZIN. KOMPLEMENTÄRMEDIZIN.</p>",
+       "tcss": {
+        "color": "rgb(0, 0, 0)",
+        "font-size": "20px",
+        "font-weight": "500",
+        "line-height": "20px",
+        "font-family": "Roboto, sans-serif"
+       },
+       "basis": 54.54
+      }
+     ],
+     "anchor": null,
+     "bg": {
+      "src": "2016/09/p1090006-e1484052426288.jpg",
+      "size": "cover",
+      "pos": "50% 50%"
+     },
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 25px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h2",
+       "html": "Herzlich Willkommen",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 100.0
+      },
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px",
+        "border": "1px solid rgb(224, 224, 224)",
+        "margin-top": "15px",
+        "margin-bottom": "15px",
+        "margin-left": "15px",
+        "margin-right": "15px"
+       },
+       "anchor": null,
+       "t": "text",
+       "html": "<p>Ihr Anliegen, Ihre Bedürfnisse und Wünsche stehen bei mir im Mittelpunkt. Im Rahmen der Vorbeugung und Behandlung von akuten und chronischen Gesundheitsstörungen begleite ich Sie mit einem ganzheitlichen medizinischen Blickwinkel – von Geburt an bis ins hohe Alter.</p><p>Ich bin Arzt, der sich auf Anästhesie und Schmerztherapie spezialisiert hat. Während meiner Laufbahn habe ich mein schulmedizinisches Spektrum um wirksame Methoden aus der Komplementärmedizin erweitert. All diese kann ich Ihnen in meiner Praxis vertrauensvoll anbieten.</p><p>Auf dem Gebiet der Schmerztherapie behandle ich die Ursachen der Schmerzentstehung, um eine langfristige Milderung oder gar Schmerzfreiheit herbeizuführen.</p><p>In mein ganzheitliches Behandlungskonzept integriere ich eine Reihe von schul- und komplementärmedizinischen Verfahren wie beispielsweise Manuelle Medizin, Neuraltherapie, Ärztliche Kinesiologie, Homöopathie, Muskel-Akupunktur, PEP*, Shonishin**, IHHT*** oder den Aufbau des (Darm-) Immunsystems.</p><p>Die Manuelle Medizin therapiert Funktionsstörungen des Bewegungsapparats und von Inneren Organen mit dem Ziel, die Beweglichkeit und die (Organ-)Funktion wiederherzustellen. Dabei wird auf Medikamente und invasive Massnahmen verzichtet.</p><p>Sie würden gerne Ihre Gesundheit und körperliche wie geistige Fitness in allen Lebensphasen in Bestform bringen oder halten? Ich helfe Ihnen, Ihre Ernährung umzustellen, “gesunde” Gedanken zu pflegen, zu mehr Bewegung und sportlicher Betätigung zu finden.</p><p>Die Abrechnung erfolgt über die Grund- und Zusatzversicherung.</p><p>Ich freue mich, Sie kennenzulernen.</p><p><b>Ihr Dr. Jürgen Dahn</b></p><p><a href=\"https://www.dr-michael-bohne.de\" rel=\"noopener\" target=\"_blank\"><strong>PEP*</strong></a> (Prozessorientierte Energetische Psychologie in Therapie und Coaching nach Dr. med. Michael Bohne): für Schmerztherapie, Kompetenz- und Selbstwerttraining sowie Auftritts- bzw. Präsentations- Coaching.</p><p><strong><a href=\"https://www.heilpraktikerschule.ch/newsroom/news-detail/news/2022/08/16/mit-einfachen-techniken-viel-erreichen\" rel=\"noopener\" target=\"_blank\">Shonishin**</a> </strong>(nach Thomas Wernicke, Facharzt für Allgemeine Medizin): japanische Akupunktur OHNE NADEL für Säuglinge, Kinder und Erwachsene.</p><p><a href=\"https://fit4life.ch/mt-1/\" rel=\"noopener\" target=\"_blank\"><strong>IHHT***</strong> </a>(Intervall-Hypoxie-Hyperoxie-Training), Medizin-Nobelpreis 2019 für die Sauerstoff-Steuerung in den Körperzellen. Sauerstofftraining in entspannter Ruhe für die Energiekraftwerke unserer Körperzellen mit einer gut passenden Gesichtsmaske und dem Ziel, die Leistungsfähigkeit, Konzentration und Stoffwechselaktivität unseres Körpers deutlich zu verbessern.</p>",
+       "tcss": {
+        "color": "rgb(122, 122, 122)",
+        "font-size": "20px",
+        "line-height": "30px"
+       },
+       "basis": 100.0
+      },
+      {
+       "css": {
+        "padding": "0px 15px 0px 15px"
+       },
+       "anchor": null,
+       "t": "image",
+       "src": "2023/06/willkommen_header.jpg",
+       "alt": "willkommen header",
+       "caption": "Sicherer Hafen",
+       "href": null,
+       "external": false,
+       "w": 1280,
+       "imgW": 1250,
+       "imgR": null,
+       "align": "center",
+       "capcss": {
+        "color": "rgb(122, 122, 122)",
+        "font-size": "20px",
+        "line-height": "28px",
+        "text-align": "center",
+        "font-style": "italic"
+       },
+       "basis": 100.0
+      }
+     ],
+     "anchor": null,
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 25px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h2",
+       "html": "Video-Bereich",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 100.0
+      },
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px",
+        "border": "1px solid rgb(224, 224, 224)",
+        "margin-top": "15px",
+        "margin-bottom": "15px",
+        "margin-left": "15px",
+        "margin-right": "15px"
+       },
+       "anchor": null,
+       "t": "text",
+       "html": "<p>Hier finden Sie eine Vielzahl von Videos, die Ihnen dabei helfen, Ihre Gesundheit und Ihr Wohlbefinden zu verbessern. Wir haben informative Videos zu verschiedenen medizinischen Themen aufgenommen, die Ihnen helfen, Ihre Fragen zu beantworten und sich über verschiedene Behandlungsmöglichkeiten zu informieren. Wir möchten Ihnen helfen, die bestmögliche Gesundheitsversorgung zu erhalten, und hoffen, dass unsere Videos Ihnen dabei helfen werden, informierte Entscheidungen zu treffen.</p><p>Vielen Dank, dass Sie sich die Zeit nehmen, unseren Video-Bereich zu besuchen.</p>",
+       "tcss": {
+        "color": "rgb(122, 122, 122)",
+        "font-size": "20px",
+        "line-height": "30px"
+       },
+       "basis": 100.0
+      },
+      {
+       "css": {
+        "padding": "0px 15px 0px 15px"
+       },
+       "anchor": null,
+       "t": "video",
+       "basis": 100.0
+      }
+     ],
+     "anchor": "videoplaylist",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 25px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h2",
+       "html": "Downloading Bereich",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 100.0
+      }
+     ],
+     "anchor": "downloadbereich",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "padding": "0px 5px 0px 5px"
+     },
+     "kids": [
+      {
+       "t": "box",
+       "row": true,
+       "css": {},
+       "kids": [
+        {
+         "t": "box",
+         "row": false,
+         "css": {
+          "padding": "5px 5px 5px 5px"
+         },
+         "kids": [
+          {
+           "css": {
+            "padding": "10px 10px 10px 10px",
+            "border": "1px solid rgb(224, 224, 224)",
+            "margin-left": "5px"
+           },
+           "anchor": null,
+           "t": "text",
+           "html": "<p><strong>Komplementärmedizin bei Krebs. Sie kann die Schulmedizin wirksam unterstützen.<br/></strong>Hier können Sie alle Vorträge als Mp3 herunterladen:</p><ol><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr001_1.mp3\">Basiswissen.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr002_1.mp3\">Entscheidungshilfen für Chemotherapie, Strahlentherapie, Antihormonelle Therapie (AHT).</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr003_1.mp3\">Komplementärmedizin: Psyche, Aktivität, Ernährung und Stoffwechsel.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr004_1_1.mp3\">Komplementärmedizin: Immunsystem.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/komplementr005_1_1.mp3\">Hilfe bei Nebenwirkungen: Chemo- oder Strahlentherapie, Fatigue, Lymphödem.</a></li></ol> <p><strong>Progressive Muskelrelaxation nach Jacobson<br/></strong>Hier können Sie alle Audiodateien als Mp3 herunterladen:</p><ol><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/audio_1.mp3\">Allgemeine Informationen, Körperhaltung, Atmung. Basiswissen, Krankheitsbilder.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/audio_2.mp3\">Gesprochene Anleitung mit Musik</a></li></ol>",
+           "tcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "20px",
+            "line-height": "30px"
+           },
+           "basis": 100.0
+          }
+         ],
+         "anchor": null,
+         "basis": 50.0
+        },
+        {
+         "t": "box",
+         "row": false,
+         "css": {
+          "padding": "5px 5px 5px 5px"
+         },
+         "kids": [
+          {
+           "css": {
+            "padding": "10px 10px 10px 10px",
+            "border": "1px solid rgb(224, 224, 224)",
+            "margin-right": "5px"
+           },
+           "anchor": null,
+           "t": "text",
+           "html": "<p><strong>Allergie und Unverträglichkeit. Natürliche Alternativen zu Anitihistamin &amp; Cortison.<br/></strong>Hier können Sie alle Vorträge als Mp3 herunterladen:</p><ol><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/allergie001_1.mp3\">Basiswissen, Krankheitsbilder.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/allergie002_1.mp3\">Diagnose- und Therapiepuzzle.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/allergie003_1.mp3\">Hyposensibilisierung. Hypnotherapie.</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/allergie004_1.mp3\">Nahrungsmittelunverträglichkeiten. Histamin.</a></li></ol> <p><strong>Visualisierungen, Fantasiereisen, Autogenes Training</strong><br/>Hier können Sie alle Audiodateien als Mp3 herunterladen:</p><ol><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/selbstvertrauen_strken-.mp3\">Selbstvertrauen stärken</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/kraft-tanken-durch-zu-sich-selbst-nach-hause-kommen_1_1.mp3\">Kraft tanken durch „Zu sich selbst nach Hause kommen“</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/konzentration_strken_1.mp3\">Konzentration stärken</a></li><li><a href=\"/atemubung-fur-schwangere_1_1/\">Atemübung für Schwangere</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/regenbogen_1.mp3\">Regenbogen</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/einschlafen_1.mp3\">Einschlafen</a></li><li><a href=\"https://drdahn.ch/wp-content/uploads/2019/05/krebstherapie_1.mp3\">Krebstherapie</a></li></ol>",
+           "tcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "20px",
+            "line-height": "30px"
+           },
+           "basis": 100.0
+          }
+         ],
+         "anchor": null,
+         "basis": 50.0
+        }
+       ],
+       "anchor": null,
+       "basis": 100.0
+      }
+     ],
+     "anchor": null,
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 25px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h2",
+       "html": "Kontakt",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 100.0
+      }
+     ],
+     "anchor": null,
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": true,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "padding": "0px 10px 0px 10px"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(224, 224, 224)",
+        "margin-left": "5px"
+       },
+       "anchor": null,
+       "t": "text",
+       "html": "<ol><li><p><strong>Adresse<br/></strong>Dr. med. Jürgen Dahn<br/>Gruppenpraxis<br/>Spitalstr.18, 6210 Sursee<br/>Tel. : 041 926 71 00<br/>Fax : 041 926 71 01</p></li><li><p><a href=\"mailto:info@drdahn.ch\">info@drdahn.ch<br/></a><a href=\"/\">www.drdahn.ch<br/></a>Besuchen Sie uns auch auf <a href=\"https://www.facebook.com/drmedjuergendahn/\">facebook</a> und auf meinem <a href=\"https://www.youtube.com/channel/UCsykSI1jc94HkjtBYqTsUVw\">youtube channel</a></p> <p><strong>Telefonsprechzeiten</strong><br/>Montag – Donnerstag<br/>08:30 – 11:30 Uhr<br/>14:00 – 16:30 Uhr</p> <p><strong>Öffnungszeiten<br/></strong>Montag – Donnerstag<br/>08:00 – 12:00 Uhr<br/>14:00 – 18:00 Uhr</p><p>Freitag<br/>08:00 – 12:00 Uhr</p></li></ol>",
+       "tcss": {
+        "color": "rgb(122, 122, 122)",
+        "font-size": "20px",
+        "line-height": "30px"
+       },
+       "basis": 35.42
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(224, 224, 224)",
+        "margin-right": "5px"
+       },
+       "anchor": null,
+       "t": "text",
+       "html": "<p>Unsere Praxis finden Sie in unmittelbarer Nachbarschaft zum Luzerner Kantonsspital in Sursee. Sie erreichen uns bequem mit dem Auto oder auch mit öffentlichen Verkehrsmitteln .</p><p><strong>Unsere Praxis ist komplett barrierefrei.</strong></p><p><strong>Anfahrt mit dem Auto<br/></strong></p><p>Mit dem Auto von Norden oder Süden kommend fahren Sie über die Autobahn A2 bis Ausfahrt 20 Sursee. Weiter Richtung Zentrum, folgen Sie der Beschilderung des Spitals. Ihr Fahrzeug können Sie direkt im Parkhaus des Spitals abstellen. Folgen Sie dem Fussweg linker Hand des Parkhauses –<br/>rechts geht es zum Spital – bis zum Ende, hier finden Sie unsere Praxis.</p><p><strong>Anfahrt mit Bus und Bahn</strong></p><p>Vom Bahnhof Sursee können Sie die Buslinien 81, 86 und 399 bis zur Haltestelle Kantonales Spital nehmen. Von der Haltestelle vor dem Spital sind<br/>es noch etwa 2 Gehminuten: Folgen Sie der Spitalstrasse Richtung Nordosten bis zum Bellevueweg, biegen Sie rechts ab in den Seitenarm der<br/>Spitalstrasse. Beachten Sie die Auschilderung „Gruppenpraxis“ und folgen Sie dem Fussweg bis zum Ende, hier finden Sie unsere Praxis.</p><p><strong>Termine nach Absprache.</strong><br/><a href=\"/#reservierungs\">Online Terminbuchung</a><br/><a href=\"/notfallnummern/\" rel=\"noopener noreferrer\">Notfallnummern.</a></p><p><strong>Die Abrechnung erfolgt über die Grund- und Zusatzversicherung.</strong></p>",
+       "tcss": {
+        "color": "rgb(122, 122, 122)",
+        "font-size": "20px",
+        "line-height": "30px"
+       },
+       "basis": 62.99
+      }
+     ],
+     "anchor": "kontakt",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 25px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h2",
+       "html": "Neue Behandlungsangebote",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 100.0
+      }
+     ],
+     "anchor": null,
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "padding": "0px 5px 0px 5px"
+     },
+     "kids": [
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "padding": "5px 5px 5px 5px"
+       },
+       "kids": [
+        {
+         "css": {},
+         "anchor": null,
+         "t": "image",
+         "src": "2023/03/photo_2024-06-07-11.30.52.jpeg",
+         "alt": "zwei Sonnen",
+         "caption": "",
+         "href": null,
+         "external": false,
+         "w": 1260,
+         "imgW": 1260,
+         "imgR": null,
+         "align": "center",
+         "capcss": {},
+         "basis": 100.0
+        },
+        {
+         "css": {
+          "margin-top": "-15px"
+         },
+         "anchor": null,
+         "t": "text",
+         "html": "<p>Mit freundlicher Genehmigung von <a href=\"https://m.facebook.com/siegenthalerphotography\" rel=\"noopener\" target=\"_blank\">Thomas Siegenthaler</a></p>",
+         "tcss": {
+          "color": "rgb(122, 122, 122)",
+          "font-size": "20px",
+          "line-height": "30px",
+          "text-align": "center"
+         },
+         "basis": 100.0
+        }
+       ],
+       "anchor": null,
+       "basis": 100.0
+      }
+     ],
+     "anchor": "linkseite",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "padding": "0px 5px 0px 5px"
+     },
+     "kids": [
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "padding": "5px 5px 5px 5px"
+       },
+       "kids": [
+        {
+         "css": {
+          "padding": "10px 10px 10px 10px",
+          "border": "1px solid rgb(224, 224, 224)",
+          "margin-right": "5px"
+         },
+         "anchor": null,
+         "t": "text",
+         "html": "<ol><li><strong>PEP </strong><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">(Prozessorientierte Energetische Psychologie in Therapie und Coaching nach Dr. med. Michael Bohne) für Schmerztherapie, Kompetenz- und Selbstwerttraining sowie Auftritts- bzw. Präsentations- Coaching.<br/></span></span></span><strong><strong>Link:<a href=\"https://www.dr-michael-bohne.de\" rel=\"noopener\" target=\"_blank\"> www.dr-michael-bohne.de</a></strong></strong></li><li><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\"><strong>IHHT</strong> (Intervall-Hypoxie-Hyperoxie-Training): Sauerstofftraining in entspannter Ruhe für die Energiekraftwerke unserer Körperzellen mit einer gut passenden Gesichtsmaske und dem Ziel, die Leistungsfähigkeit, Konzentration und Stoffwechselaktivität deutlich zu verbessern.<br/></span></span></span><strong><strong>Link: <a href=\"https://fit4life.ch/mt-1\" rel=\"noopener\" target=\"_blank\">www.fit4life.ch</a></strong></strong></li><li><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\"><strong>Shonishin</strong> (nach Thomas Wernicke, Facharzt für Allgemeine Medizin): japanische Akupunktur OHNE NADEL für Säuglinge, Kinder und Erwachsene.<br/></span></span></span></span><strong><strong><strong>Link: <a href=\"https://www.heilpraktikerschule.ch/newsroom/news-detail/news/2022/08/16/mit-einfachen-techniken-viel-erreichen\" rel=\"noopener\" target=\"_blank\">www.heilpraktikerschule.ch</a><br/></strong></strong></strong></li><li><strong>SonnenWind</strong> (Gesundheitsimpulse für die Zukunft, Neues Wissen und mehr, Austausch und Begegnung, Zell- und Stoffwechseltraining mit Sauerstoff, Menschen mit Lebenserfahrung und Potential)<strong><strong><br/>Link: <a href=\"https://www.sonnenwind.ch/\" rel=\"noopener\" target=\"_blank\">www.sonnenwind.ch</a><br/><br/></strong></strong><p>Ausgewählte weiterführende Informationen zu meinen schul- und komplementärmedizinischen Behandlungsangeboten und Spezialitäten finden Sie hier <strong><a href=\"/weiterfuehrendeinformationen/\">www.drdahn.ch/weiterfuehrendeinformationen</a></strong><br/><strong><strong><br/></strong></strong></p><h6><em>*Alle  externen Links werden in einem neuen Browser-Tab geöffnet.</em></h6></li></ol>",
+         "tcss": {
+          "color": "rgb(122, 122, 122)",
+          "font-size": "20px",
+          "line-height": "30px"
+         },
+         "basis": 100.0
+        }
+       ],
+       "anchor": null,
+       "basis": 100.0
+      }
+     ],
+     "anchor": null,
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "divider",
+       "icon": true,
+       "basis": 100.0
+      },
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px"
+       },
+       "anchor": null,
+       "t": "cards",
+       "cols": 3,
+       "items": [
+        {
+         "href": "/schmerztherapie/",
+         "img": "2016/08/schmerztherapie-1-e1483460060746.jpg",
+         "alt": "schmerztherapie",
+         "title": "Schmerztherapie",
+         "excerpt": "<p>Stechend, drückend, beissend, brennend: Schmerzen sind vielschichtig und werden von jedem Menschen unterschiedlich empfunden. Unangenehm sind sie in jedem Fall. Manchmal ist sogar eine Operation notwendig.<br/> Schmerzen können ganz plötzlich beginnen.</p>",
+         "more": ">  Read More"
+        },
+        {
+         "href": "/manuelle-medizin/",
+         "img": "2017/01/manuelle_medizin-e1483458470347.jpg",
+         "alt": "manuelle_medizin",
+         "title": "Manuelle Medizin",
+         "excerpt": "<p>Die Ursprünge der Manuellen Medizin lassen sich bis ins Mittelalter zurückverfolgen. In Europa und den USA hat sich die Methode um 1850 etabliert. Wir haben es also mit einer hoch entwickelten Diagnose- und Therapieform zu tun, die sich durch ihre sanften, aber wirkungsvollen Techniken ebenso auszeichnet wie durch ihren Verzicht auf Medikamente oder invasive Methoden.</p>",
+         "more": ">  Read More"
+        },
+        {
+         "href": "/komplementaermedizin/",
+         "img": "2017/01/komplementaer_medizin-e1685104474252.jpg",
+         "alt": "komplementaer_medizin",
+         "title": "Komplementärmedizin",
+         "excerpt": "<p>Komplementärmedizin stellt zum einen eine sanfte Alternative zur Schulmedizin dar, zum anderen ist sie eine gute Ergänzung zu Standardtherapien. Daher wird sie auch in grossen Kliniken wie den Universitätsspitälern Bern und Zürich parallel zu konventionellen Massnahmen angewendet.</p>",
+         "more": ">  Read More"
+        }
+       ],
+       "basis": 100.0
+      }
+     ],
+     "anchor": "schmerz",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px"
+       },
+       "anchor": null,
+       "t": "cards",
+       "cols": 1,
+       "items": [
+        {
+         "href": "/schwangerschaft/",
+         "img": "2017/01/schwangerschaft-e1483458521748.jpg",
+         "alt": "schwangerschaft",
+         "title": "Schwangerschaft",
+         "excerpt": "<p>Vom Schwangerschaftswunsch bis zur Geburt und zur Zeit danach ist es ein schöner und aufregender Weg – gerne begleite ich Sie dabei. Denn mit sanften Methoden der Manuellen Medizin lässt sich dem Organismus und dem Bewegungssystem behutsam, aber wirkungsvoll auf die Sprünge helfen – besonders bei Beschwerden.</p>",
+         "more": ">  Read More"
+        }
+       ],
+       "basis": 100.0
+      }
+     ],
+     "anchor": "schwangerschaft",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px"
+       },
+       "anchor": null,
+       "t": "cards",
+       "cols": 3,
+       "items": [
+        {
+         "href": "/saeuglinge-kleinkinder-und-kinder/",
+         "img": "2017/01/kleinkinder-e1483458337994.jpg",
+         "alt": "kleinkinder",
+         "title": "Säuglinge, Kleinkinder und Kinder",
+         "excerpt": "<p>In meiner Praxis heisse ich bereits Säuglinge herzlich willkommen. Schwangerschaft und Geburt setzen den Körper eines Säuglings besonderen Belastungen aus, die nach der Geburt nicht selten in Störungen des Bewegungsapparats und des Verhaltens resultieren.</p>",
+         "more": ">  Read More"
+        },
+        {
+         "href": "/1844-2/",
+         "img": "2017/01/teens_twens-e1483458747787.jpg",
+         "alt": "young people in the forest",
+         "title": "Teens & Twens",
+         "excerpt": "<p>Hey, tschau, was lauft? Okay, die Jugendsprache überlasse ich besser Dir. :-) Mir geht es auch eher darum, Dich zu verstehen. Die Gesundheit von Teens und Twens liegt mir nämlich besonders am Herzen. Erwachsenwerden ist eine Herausforderung, für den Geist ebenso wie für den Körper.</p>",
+         "more": ">  Read More"
+        },
+        {
+         "href": "/1849-2/",
+         "img": "2017/01/erwachsene_senioren-e1483458449411.jpg",
+         "alt": "erwachsene_senioren",
+         "title": "Erwachsene & Senioren",
+         "excerpt": "<p>Als erwachsener Mensch stehen Sie mitten im Leben. Vermutlich wissen Sie, was Sie wollen – und was nicht. Krankheiten gehören sicherlich zu letzterem.</p><p>Fühlen Sie sich nicht gut? Haben Sie Schmerzen in Kopf, Bauch, Brust, den Gelenken oder den Extremitäten?</p>",
+         "more": ">  Read More"
+        }
+       ],
+       "basis": 100.0
+      }
+     ],
+     "anchor": "kids_teens_adults",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px"
+       },
+       "anchor": null,
+       "t": "cards",
+       "cols": 1,
+       "items": [
+        {
+         "href": "/1834-2/",
+         "img": "2017/01/sportler-e1483458489928.jpg",
+         "alt": "sportler",
+         "title": "Sportler",
+         "excerpt": "<p>Wer Sport treibt, tut seinem Körper viel Gutes: Regelmässiges Ausdauertraining stärkt die Herzmuskulatur und senkt Blutdruck, Cholesterin- und Zuckerspiegel. Sport regt unseren Körper zum Muskelaufbau sowie zur Bildung neuer Knochensubstanz an und senkt das Körpergewicht. Ausserdem hat regelmässige körperliche Aktivität positive Auswirkungen auf unser seelisches Befinden und unsere geistige Fitness.</p>",
+         "more": ">  Read More"
+        }
+       ],
+       "basis": 100.0
+      }
+     ],
+     "anchor": "sport",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px"
+       },
+       "anchor": null,
+       "t": "cards",
+       "cols": 3,
+       "items": [
+        {
+         "href": "/gesundheitsfoerderung-und-praevention/",
+         "img": "2017/01/gesundheitsfrderung-e1483458428250.jpg",
+         "alt": "gesundheitsförderung",
+         "title": "Gesundheitsförderung und Prävention",
+         "excerpt": "<p>Bewegung an der frischen Luft, eine vollwertige Ernährung und ein gefestigter Geist sind die besten Voraussetzungen für ein gesundes Leben. Gerade das machen die Anforderungen der Moderne uns jedoch nicht immer einfach.</p>",
+         "more": ">  Read More"
+        },
+        {
+         "href": "/koerperliche-und-geistige-gesundheit/",
+         "img": "2017/01/krperliche_geistige_gesundheit-e1685104355317.jpg",
+         "alt": "koerperliche_geistige_gesundheit",
+         "title": "Körperliche und geistige Gesundheit",
+         "excerpt": "<p>Die Weltgesundheitsorganisation (WHO) definiert Gesundheit als “Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens und nicht nur das Fehlen von Krankheit oder Gebrechen” (WHO 1948).</p>",
+         "more": ">  Read More"
+        },
+        {
+         "href": "/rehabilitation/",
+         "img": "2016/08/rehabilitation.jpg",
+         "alt": "wald sonnenuntergang",
+         "title": "Rehabilitation",
+         "excerpt": "<p>Schwere Erkrankungen, Verletzungen, Operationen oder Zahnverluste machen unserem Körper zu schaffen. Viele Patienten benötigen danach Rehabilitationsmassnahmen, um zu ihrer körperlichen Leistungsfähigkeit zurückzufinden.</p>",
+         "more": ">  Read More"
+        }
+       ],
+       "basis": 100.0
+      }
+     ],
+     "anchor": "gesundheit",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px"
+       },
+       "anchor": null,
+       "t": "cards",
+       "cols": 1,
+       "items": [
+        {
+         "href": "/krebspatienten/",
+         "img": "2017/01/krebserkrankung-e1685104507225.jpg",
+         "alt": "krebserkrankung",
+         "title": "Krebserkankung",
+         "excerpt": "<p>Bei einer Krebserkrankung sind schulmedizinische Methoden wie Operation, Chemotherapie aber auch Bestrahlung notwendig. Diese Behandlungsformen gehen jedoch mit starken Belastungen für den Körper einher. Mit einer sanften Begleitung durch komplementärmedizinische Methoden und Manuelle Medizin können Nebenwirkungen gelindert und ein positiver Heilungsverlauf unterstützt werden.</p>",
+         "more": ">  Read More"
+        }
+       ],
+       "basis": 100.0
+      }
+     ],
+     "anchor": "krebs",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px"
+       },
+       "anchor": null,
+       "t": "cards",
+       "cols": 1,
+       "items": [
+        {
+         "href": "/hypnotherapie/",
+         "img": "2024/12/caroline.png",
+         "alt": "caroline",
+         "title": "Hypnotherapie",
+         "excerpt": "<p><b>Wissen vom Sein.<br/> Bewusstsein Oder bewusst Sein – Der Schlüssel für inneres Ankommen, Kraft und Energie.</b><br/> Ein besonderer Herzenswunsch ist es mir, Sie über meine Zusammenarbeit mit Caroline Schwenke <strong><a href=\"http://www.bewusstseinspraxis.ch\" rel=\"noopener\" target=\"_blank\">(www.bewusstseinspraxis.ch)</a></strong> zu informieren.<br/> Caroline Schwenke, Fachärztin für Anästhesie und ehemalige Chefärztin (Service d’anesthésie, Groupe Hospitalier Bretagne Sud, Frankreich), ist als Hypnotherapeutin in eigener Praxis in Baar (Kt. Zug) niedergelassen.<br/> <b>Mit ihren Schwerpunkten «Hypnotherapie, Mentaltherapie, Coaching»</b></p>",
+         "more": ">  Read More"
+        }
+       ],
+       "basis": 100.0
+      }
+     ],
+     "anchor": "hypno",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 15px 15px"
+       },
+       "anchor": null,
+       "t": "cards",
+       "cols": 1,
+       "items": [
+        {
+         "href": "/highperforming/",
+         "img": "2025/07/drd_0001_generative-fill-2.jpg",
+         "alt": "drd 0001 generative fill 2",
+         "title": "High-Performing",
+         "excerpt": "<p><strong>High-Performing: Medizin 1 zu 1. Wahrnehmen. Annehmen. Verändern.</strong></p><p>Wir sind davon überzeugt, dass Sie <strong>aktiv die Verantwortung für Ihr Wohlbefinden übernehmen</strong> können. Unsere Leidenschaft gilt einem <strong>sanften und gleichzeitig äusserst wirksamen Ansatz der aktiven Medizin</strong>. In Zusammenarbeit mit <strong>Caroline Schwenke</strong>, ehemaliger Chefärztin und heutiger Mentaltrainerin, bieten wir Ihnen individuelle Unterstützung zur Stärkung Ihrer Selbstkompetenz.</p><p> <strong>Wer profitiert von unserem Angebot?</strong></p><p>Wir heissen Menschen willkommen, die danach streben:</p><ul><li><strong>Klar zu denken, zielgerichtet zu handeln und innere Stabilität zu erlangen.</strong></li><li><strong>Beruflich wie privat souverän und erfolgreich zu bleiben</strong> – ganz aus Ihrer Kraft und Energie heraus.</li><li><strong>Wahre Lebensfreude zu «gspüre»</strong>, unabhängig von Alter oder Gesundheitszustand, einschliesslich Sportlern und Nicht-Sportlern.</li><li><strong>Arbeitgeber, Arbeitnehmer und Privatpersonen</strong>, die andere für Gesundheit und bewusstes Leben sensibilisieren möchten.</li></ul><p><br/></p><p>Seien Sie <strong>KRAFTVOLL. MUTIG. ZIELORIENTIERT. BEWUSST.</strong> Nutzen Sie unsere Erfahrung in Form von massgeschneiderten Vorträgen und Workshops, die Sie dabei unterstützen, aktiv für sich selbst zu sorgen.</p>",
+         "more": ">  Read More"
+        }
+       ],
+       "basis": 100.0
+      }
+     ],
+     "anchor": "high",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2016/09/uebermich.jpg",
+       "alt": "uebermich",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1280,
+       "imgW": 1280,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 100.0
+      },
+      {
+       "css": {
+        "padding": "15px 15px 15px 25px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h2",
+       "html": "Über mich",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 13.94
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(201, 201, 201)",
+        "margin-top": "15px",
+        "margin-bottom": "15px",
+        "margin-left": "15px",
+        "margin-right": "15px"
+       },
+       "anchor": null,
+       "t": "text",
+       "html": "<ul><li>Studium der Humanmedizin in Heidelberg und Mannheim</li><li>Klinische Ausbildung in Anästhesie und Schmerztherapie am Universitätsklinikum Mannheim mit Abschluss Facharzt Anästhesie/Schmerztherapie</li><li>Stetige Weiterbildung in Manueller Medizin (für Säuglinge, Kinder und Erwachsene), Akupunktur, Homöopathie, Naturheilverfahren, Neuraltherapie, Autogenes Training</li><li>Internationaler Diplomate für Applied Kinesiology (Ärztliche Kinesiologie)</li><li>Fachärztliche Praxisassistenz im Bereich Spezielle Schmerztherapie in Weinheim</li><li>Fachärztliche Spitalassistenz im Bereich Konservative Orthopädie in Speyer</li><li>Fachärztliche Praxisassistenz im Bereich Konservative Orthopädie in Freiburg</li><li>Aufbau einer „Praxis für ganzheitliche Medizin“ in Karlsruhe</li><li>Beratende Tätigkeit bei der Gesellschaft für Biologische Krebsabwehr (GfBK) in Heidelberg</li><li>Hausärztliche Versorgung bei SOS Ärzte Zürich</li><li>Oktober 2016 Praxis für Schmerztherapie, Manuelle Medizin, Komplementärmedizin in der Gruppenpraxis am LUKS Sursee</li></ul>",
+       "tcss": {
+        "color": "rgb(122, 122, 122)",
+        "font-size": "20px",
+        "line-height": "30px"
+       },
+       "basis": 100.0
+      }
+     ],
+     "anchor": "übermich",
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "divider",
+       "icon": true,
+       "basis": 100.0
+      }
+     ],
+     "anchor": null,
+     "basis": 100.0
+    },
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "15px 15px 0px 25px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h2",
+       "html": "Ihr Termin",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 13.81
+      },
+      {
+       "t": "box",
+       "row": false,
+       "css": {},
+       "kids": [
+        {
+         "css": {
+          "padding": "20px 20px 20px 20px",
+          "border": "1px solid rgb(201, 201, 201)",
+          "border-bottom-width": "0",
+          "margin-top": "15px",
+          "margin-bottom": "15px",
+          "margin-left": "15px",
+          "margin-right": "15px"
+         },
+         "anchor": "reservierungs",
+         "t": "text",
+         "html": "<p><a href=\"https://www.onedoc.ch/de/widget/d2561294506ee871600bd75c066676de241fb921ea753fd1deab3c54dfd7cf0d/book\" rel=\"noopener\" target=\"_blank\">Hier können Sie selbst einfach und sicher einen Termin in meiner Praxis reservieren.</a></p><p>Bitte beachten Sie, dass Ihre Reservierung verbindlich ist. Falls Sie den Termin nicht wahrnehmen können, kontaktieren Sie uns bitte mindestens 24 Stunden im Voraus.</p><p>Nach abgeschlossener Buchung erhalten Sie eine Bestätigung.</p><p>Für besondere Termin-Anfragen und in Notfällen wenden Sie sich bitte telefonisch an:</p><p><strong>041 – 926 71 00.<br/></strong><br/><strong>Die Abrechnung erfolgt über die Grund- und Zusatzversicherung.</strong></p>",
+         "tcss": {
+          "color": "rgb(122, 122, 122)",
+          "font-size": "20px",
+          "line-height": "30px"
+         },
+         "basis": 100.0
+        }
+       ],
+       "anchor": null,
+       "basis": 100.0
+      }
+     ],
+     "anchor": null,
+     "basis": 100.0
+    }
+   ],
+   "anchor": "header_img"
+  }
+ ]
+}

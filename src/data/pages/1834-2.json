@@ -1,0 +1,78 @@
+{
+ "slug": "1834-2",
+ "kind": "post",
+ "title": "Sportler – Dr. Dahn",
+ "description": "Wer Sport treibt, tut seinem Körper viel Gutes: Regelmässiges Ausdauertraining stärkt die Herzmuskulatur und senkt Blutdruck, Cholesterin- und Zuckerspiegel. Sport regt unseren Körper zum Muskelaufbau sowie zur Bildung neuer Knochensubstanz an und senkt das Körpergewicht. Ausserdem hat regelmässige körperliche Aktivität positive Auswirkungen auf unser seelisches Befinden und unsere geistige Fitness.",
+ "oldUrl": "/1834-2/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/sportler-e1483458489928.jpg",
+       "alt": "sportler",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Sportler",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Wer Sport treibt, tut seinem Körper viel Gutes: Regelmässiges Ausdauertraining stärkt die Herzmuskulatur und senkt Blutdruck, Cholesterin- und Zuckerspiegel. Sport regt unseren Körper zum Muskelaufbau sowie zur Bildung neuer Knochensubstanz an und senkt das Körpergewicht. Ausserdem hat regelmässige körperliche Aktivität positive Auswirkungen auf unser seelisches Befinden und unsere geistige Fitness.</p><p>Während des Trainings und besonders bei Wettkämpfen ist der Körper des Sportlers oft grossen Herausforderungen ausgesetzt. Es ist wichtig, dass die gewählte Sportart auf die korrekte Weise ausgeübt wird, um Verletzungen vorzubeugen. Dazu gehört die richtige Körperhaltung, das Beherrschen der Bewegungsabläufe und ein gesundes Mass an Trainings- und Ruhephasen.</p><p>Typische Beschwerden von Sportlern sind:</p><ul><li>Verletzungen</li><li>Verschleiss von Gelenken und Knochen, Bändern und Sehnen</li><li>Muskelbeschwerden</li><li>Haltungsprobleme</li><li>Fehlbelastungen, die in Beschwerden mit volkstümlichen Namen wie “Tennisarm”, “Läuferknie” oder “Schwimmerschulter” resultieren</li><li>Schwächung des Immunsystems durch anhaltende Überbelastung</li></ul><p>Treten Ihre körperlichen Beschwerden erst am Ende des Trainings auf, so liegt dies meist daran, dass Sie erschöpft sind und der Stoffwechsel keine Energie mehr bereitstellen kann. Gerne untersuche ich Sie direkt nach Ihrem Training, wenn die Beschwerden am stärksten sind, damit ich eine gezielte Therapie für Sie entwickeln kann.</p><p>Die frühzeitige und regelmässige Behandlung ist für Sie als Sportler sinnvoll, um Verletzungen vorzubeugen und Ihre Leistung zu verbessern. Mein Behandlungsspektrum für Sportler umfasst:</p><ul><li>Untersuchung Ihres Gesundheitszustands und Unterstützung bei der Wahl der geeigneten Sportart</li><li>Präventionsmassnahmen zur Minimierung des Verletzungsrisikos</li><li>Lösung von Wirbel- und Gelenkblockaden und Wiederherstellung der Bewegungsfunktion</li><li>Taping</li><li>Haltungskorrektur, u.a. mit sensomotorischen Schuheinlagen</li><li>komplementärmedizinische Verfahren zur Verbesserung des Allgemeinzustands</li></ul>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

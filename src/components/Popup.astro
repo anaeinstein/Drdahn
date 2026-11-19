@@ -1,0 +1,22 @@
+---
+// Startseiten-Popup wie im Original: erscheint einmal pro Sitzung nach 1 Sekunde.
+import popup from '../data/popup.json';
+import Node from './Node.astro';
+---
+<dialog class="popup" aria-label="Online-Terminbuchung">
+  <form method="dialog"><button class="close" aria-label="Schliessen">×</button></form>
+  {popup.map((n: any) => <Node node={n} />)}
+</dialog>
+<script>
+  const dlg = document.querySelector<HTMLDialogElement>('dialog.popup');
+  let seen = false;
+  try { seen = sessionStorage.getItem('dahn-popup') === '1'; } catch {}
+  if (dlg && !seen && !location.hash) {
+    setTimeout(() => {
+      dlg.showModal();
+      try { sessionStorage.setItem('dahn-popup', '1'); } catch {}
+    }, 1000);
+    dlg.addEventListener('click', (e) => { if (e.target === dlg) dlg.close(); });
+    dlg.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => dlg.close()));
+  }
+</script>

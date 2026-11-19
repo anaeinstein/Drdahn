@@ -1,0 +1,78 @@
+{
+ "slug": "rehabilitation",
+ "kind": "post",
+ "title": "Rehabilitation – Dr. Dahn",
+ "description": "Schwere Erkrankungen, Verletzungen, Operationen oder Zahnverluste machen unserem Körper zu schaffen. Viele Patienten benötigen danach Rehabilitationsmassnahmen, um zu ihrer körperlichen Leistungsfähigkeit zurückzufinden.",
+ "oldUrl": "/rehabilitation/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2016/08/rehabilitation.jpg",
+       "alt": "wald sonnenuntergang",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Rehabilitation",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Schwere Erkrankungen, Verletzungen, Operationen oder Zahnverluste machen unserem Körper zu schaffen. Viele Patienten benötigen danach Rehabilitationsmassnahmen, um zu ihrer körperlichen Leistungsfähigkeit zurückzufinden.</p><p>Grund hierfür ist die so genannte “Körpererinnerung”: Sie speichert die Wunde als Verletzungsmuster ab. Das bedeutet: In der Körpererinnerung besteht die Verletzung fort, auch wenn sie physisch abgeheilt ist. Es handelt sich um eine neurologische Fehlinformation, die Fluchtreflexe aus der verletzten Region aktiviert und aussendet. Dadurch entstehen falsche Nervenreflexmuster, die Muskelfehlfunktionen hervorrufen. Diese beeinträchtigen die Stabilität der Wirbelsäule, des Beckens oder der Gelenke. Es bilden sich chronische Beschwerden, die sich oft nicht unmittelbar auf die Verletzungsregion zurückführen lassen.</p><p>Mit der “Injury-Recall-Technik” stellt die Ärztliche Kinesiologie uns eine Rehabilitationmethode bereit, mit der ich die Körpererinnerung aus Ihrem Nervensystem “löschen” kann. Zunächst diagnostiziere ich Ihr Verletzungsmuster und behandle dann die betroffene Region manuell derart, dass die Muskelketten ihre funktionelle Arbeitsweise wieder aufnehmen können und der Körper seine stabile Haltung zurückgewinnt.</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

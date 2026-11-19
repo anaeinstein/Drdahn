@@ -1,0 +1,78 @@
+{
+ "slug": "ernaehrung",
+ "kind": "post",
+ "title": "Ernährungsberatung und -umstellung – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/ernaehrung/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/impressum-e1483458363385.jpg",
+       "alt": "impressum",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Ernährungsberatung und -umstellung",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p><span style=\"font-weight: 400;\">Neben der zunehmenden Umweltbelastung haben industriell verarbeitete Nahrungsmittel, Tiefkühl- und Fertigprodukte einen schädlichen Einfluss auf unsere Gesundheit. Gesättigtes Fett, Zucker und Weißmehl sind tückisch für unseren Organismus. Eine Vielzahl von gesundheitlichen Beschwerden sind mit einer unausgewogenen oder individuell unverträglichen Ernährung begründet.</span></p><p><span style=\"font-weight: 400;\">Die Wissenschaft erkennt die gesundheitsfördernde und sogar krebsvorbeugende Wirkung vieler Nahrungsmittel aus der Natur an. Mit einer Ernährungsumstellung können Sie auf natürliche und aktive Weise Ihren Stoffwechsel unterstützen und eine Verbesserung Ihres Wohlbefindens herbeiführen. Zu einem individuell auf Ihre Bedürfnisse zugeschnittenen Speiseplan berate ich Sie gern.</span></p><p><span style=\"font-weight: 400;\">Ein paar allgemeine Tipps vorweg:</span></p><ul><li><span style=\"font-weight: 400;\"> essen Sie so frisch und naturbelassen wie möglich</span></li><li><span style=\"font-weight: 400;\"> versuchen Sie, industriell hergestellte Fette (“gesättigte Fettsäuren”) zu vermeiden</span></li><li><span style=\"font-weight: 400;\"> beschränken Sie den Genuss von tierischem Eiweiß auf zweimal pro Woche</span></li><li><span style=\"font-weight: 400;\"> vermeiden Sie weißen Zucker und Süßigkeiten sowie Weißmehl(-Produkte)</span></li><li><span style=\"font-weight: 400;\"> nehmen Sie Ballaststoffe, Gemüse und Obst zu sich</span></li><li><span style=\"font-weight: 400;\"> trinken Sie reichlich Wasser</span></li><li><span style=\"font-weight: 400;\"> verzichten Sie auf die Mikrowelle</span></li><li><span style=\"font-weight: 400;\"> essen Sie ab dem späten Nachmittag nur wenig Rohkost</span></li><li><span style=\"font-weight: 400;\"> lassen Sie Ihren Darm am Abend und in der Nacht zur Ruhe kommen</span></li><li><span style=\"font-weight: 400;\"> nehmen Sie sich Zeit, um Ihr Essen zu genießen</span></li></ul><p><span style=\"font-weight: 400;\">Für häufige Bauch-, Kopf-, Gelenk- und Muskelschmerzen oder plötzlich auftretenden Juckreiz bzw. Hautausschlag kann eine Nahrungsmittelunverträglichkeit verantwortlich sein. Um herauszufinden, welche Lebensmittel Sie vertragen und welche nicht, genügen eine Laboruntersuchung und/oder eine komplementärmedizinische Nahrungsmitteltestung. Wenn Sie auf die unverträglich getesteten Nahrungsmittel verzichten, wird es Ihnen bald spürbar besser gehen. Oftmals ist eine mehrwöchige Pause von diesen Nahrungsmitteln ausreichend, um Ihren Darm und Körper zu entlasten.</span></p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

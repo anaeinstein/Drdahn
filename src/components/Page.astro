@@ -1,0 +1,13 @@
+---
+import Node from './Node.astro';
+import { styleOf } from '../lib/style';
+interface Props { page: any }
+const { page } = Astro.props;
+---
+{page.tree.map((root: any, i: number) => (
+  <section id={root.anchor || undefined} class="root" style={styleOf(root.css)}>
+    <div class="inner">
+      {root.kids.map((k: any, j: number) => <Node node={k} eager={i === 0 && j === 0} />)}
+    </div>
+  </section>
+))}

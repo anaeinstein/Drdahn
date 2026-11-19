@@ -1,0 +1,78 @@
+{
+ "slug": "neuraltherapie",
+ "kind": "post",
+ "title": "Neuraltherapie – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/neuraltherapie/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2022/01/sunrise-behind-a-mighty-oak-tree-2021-09-01-04-49-57-utc.jpg",
+       "alt": "dr dahn pop up",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Neuraltherapie",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p><span style=\"font-weight: 400;\">Als ganzheitlicher Therapieansatz hat die Neuraltherapie das Ziel, körpereigene Regulationskräfte zu aktivieren, die die Selbstheilung massgeblich unterstützen. Sie ist erfolgreich bei einer Vielzahl an akuten und chronischen Beschwerden wie: </span></p><ul><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Schmerz- und Erschöpfungszuständen </span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Störungen des Bewegungssystems, wie Wirbelsäule, Becken und Gelenke</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Muskelverspannungen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Erkrankungen innerer Organe </span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">spürbaren oder sogar schmerzhaften Operations- oder Verletzungsnarben</span></li></ul><p><span style=\"font-weight: 400;\">Mit Injektionsnadeln wird ein örtliches Betäubungsmittel in die verursachende Reflexzone injiziert. Die Nadeln sind sehr fein und werden kaum wahrgenommen. Das eingesetzte Lokalanästhetikum ist Procain. Da es frei von Zusatzstoffen ist, die Nebenwirkungen auslösen können und innerhalb von 20 Minuten vom Körper abgebaut wird, kann es selbst in der Schwangerschaft und bei Kindern angewendet werden. </span></p><p><span style=\"font-weight: 400;\">Procain verhilft der betroffenen Region zu Entspannung, unterdrückt den Schmerzreiz, steigert die Durchblutung, verbessert den Stoffwechsel und löst Blockaden. Dabei wird die körpereigene Regulationsfunktion des so genannten vegetativen Nervensystems genutzt.<br/> </span><br/> <span style=\"font-weight: 400;\">Die Neuraltherapie ist eine risikoarme Behandlungsmethode, die eine effektive Alternative zu Medikamenten bietet und sich problemlos mit schulmedizinischen Verfahren kombinieren lässt. Seit 2011 stuft die Grundversicherung die Neuraltherapie als wirksam, zweckmässig und wirtschaftlich ein. </span></p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

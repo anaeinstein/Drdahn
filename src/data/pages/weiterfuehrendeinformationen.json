@@ -1,0 +1,91 @@
+{
+ "slug": "weiterfuehrendeinformationen",
+ "kind": "post",
+ "title": "Weiterführende Informationen – Dr. Dahn",
+ "description": "Komplementärmedizin stellt zum einen eine sanfte Alternative zur Schulmedizin dar, zum anderen ist sie eine gute Ergänzung zu Standardtherapien. Daher wird sie auch in grossen Kliniken wie den Universitätsspitälern Bern und Zürich parallel zu konventionellen Massnahmen angewendet.",
+ "oldUrl": "/weiterfuehrendeinformationen/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2023/06/linkseite.jpg",
+       "alt": "linkseite",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Weiterführende Informationen",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "kids": [
+        {
+         "css": {},
+         "anchor": null,
+         "t": "text",
+         "html": "<p><strong>Schmerztherapie</strong><br/>Swiss Pain Society, Schmerzspezialist SPS®,<br/><strong>Link: <a href=\"https://swisspainsociety.ch/de/\" rel=\"noopener\" target=\"_blank\">www.swisspainsociety.ch/de/</a></strong></p><p>Deutsche Gesellschaft für Schmerzmedizin e.V. DGS, Spezielle Schmerztherapie,<br/><strong>Link:  <a href=\"https://www.dgschmerzmedizin.de/\" rel=\"noopener\" target=\"_blank\">www.dgschmerzmedizin.de/</a></strong></p><p><strong>Manuelle Medizin</strong><br/>Schweizerische Ärztegesellschaft für Manuelle Medizin SAMM,<br/><strong>Link: <a href=\"https://www.samm.ch\" rel=\"noopener\" target=\"_blank\">www.samm.ch/de</a><br/></strong></p><p>Schweizerische Ärztegesellschaft für Osteopathische Medizin SAGOM,<br/><strong>Link: <a href=\"https://www.sagom.ch\" rel=\"noopener\" target=\"_blank\">www.sagom.ch</a></strong></p><p>Interessengemeinschaft für myofasziale Triggerpunkttherapie IMTT,<br/><strong>Link: <a href=\"https://www.imtt.ch/\" rel=\"noopener\" target=\"_blank\">www.imtt.ch/</a><br/></strong><strong><br/>Ärztliche Kinesiologie<br/></strong>Deutsche Ärztegesellschaft für Applied Kinesiology DAEGAK,<strong><br/>Link: <a href=\"https://www.daegak.de/\" rel=\"noopener\" target=\"_blank\">www.daegak.de/</a></strong></p><p>(Die erweiterte) Injury Recall Technik (eIRT),<br/><strong>Link: <a href=\"https://www.ak-seminare.com/irt\" rel=\"noopener\" target=\"_blank\">www.ak-seminare.com/irt</a></strong></p><p><strong>Naturheilverfahren</strong><br/>Zentralverband der Ärzte für Naturheilverfahren und Regulationsmedizin e.V. ZAEN,<strong><br/>Link: <a href=\"http://www.zaen.org/\" rel=\"noopener\" target=\"_blank\">www.zaen.org/</a></strong></p><p><strong>Neuraltherapie</strong><br/>Schweizerische Ärztegesellschaft für Neuraltherapie SANTH,<br/><strong>Link:  <a href=\"https://www.santh.ch/\" rel=\"noopener\" target=\"_blank\">www.santh.ch/</a></strong></p><p><strong>Akupunktur</strong><br/>Deutsche Ärztegesellschaft für Akupunktur DAEGfA,<br/><strong>Link:  <a href=\"https://www.daegfa.de\" rel=\"noopener\" target=\"_blank\">www.daegfa.de</a></strong></p><p><strong>Ozon</strong><br/>Schweizerische Ärzte-Gesellschaft für Ozontherapie SAGOS,<br/><strong>Link: <a href=\"https://sagos.info/\" rel=\"noopener\" target=\"_blank\">www.sagos.info/</a></strong></p><p><strong>Vitamine, Mineralstoffe, Spurenelemente, den Stoffwechsel und die Psyche unterstützende und anregende Mikronährstoffe:</strong><br/>Vitamindoctor-das unabhängige Informationsportal rund um Mikronährstoffe,<br/><strong>Link: <a href=\"https://www.vitamindoctor.com/\" rel=\"noopener\" target=\"_blank\">www.vitamindoctor.com/</a></strong></p><p><strong>Homöopathie</strong><br/>Schweizerischer Verein homöopathischer Ärztinnen und Ärzte SVHA,<br/><strong>Link: <a href=\"https://svha.ch\" rel=\"noopener\" target=\"_blank\">www.svha.ch</a></strong></p><p><strong>Behandlung mit Heilpflanzen</strong><br/>Schweizerische Medizinische Gesellschaft für Phytotherapie SMGP, <br/><strong>Link: <a href=\"https://smgp-sspm.ch/\" rel=\"noopener\" target=\"_blank\">www.smgp-sspm.ch/</a></strong></p><p>Heilpflanzenschule Zentralschweiz, Udligenswil,<br/><strong>Link: <a href=\"https://www.hp-zs.ch/\" rel=\"noopener\" target=\"_blank\">www.hp-zs.ch/</a></strong></p><p><strong>Hypnotherapie</strong><br/>Milton-Erickson-Institut Heidelberg-meihei,<br/><strong>Link: <a href=\"https://www.meihei.de\" rel=\"noopener\" target=\"_blank\">www.meihei.de</a></strong></p><p><em>*Alle  externen Links werden in einem neuen Browser-Tab geöffnet.</em></p>",
+         "tcss": {
+          "color": "rgb(122, 122, 122)",
+          "font-size": "20px",
+          "line-height": "30px"
+         },
+         "basis": 98.36
+        }
+       ],
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

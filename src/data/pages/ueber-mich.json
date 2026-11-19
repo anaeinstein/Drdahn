@@ -1,0 +1,78 @@
+{
+ "slug": "ueber-mich",
+ "kind": "post",
+ "title": "Über mich – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/ueber-mich/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2016/09/uebermich.jpg",
+       "alt": "",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Über mich",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<ul><li>Studium der Humanmedizin in Heidelberg und Mannheim</li><li>Klinische Ausbildung in Anästhesie und Schmerztherapie am Universitätsklinikum Mannheim mit Abschluss Facharzt Anästhesie/Schmerztherapie</li><li>Stetige Weiterbildung in Manueller Medizin (für Säuglinge, Kinder und Erwachsene), Akupunktur, Homöopathie, Naturheilverfahren, Neuraltherapie, Autogenes Training</li><li>Internationaler Diplomate für Applied Kinesiology (Ärztliche Kinesiologie)</li><li>Fachärztliche Praxisassistenz im Bereich Spezielle Schmerztherapie in Weinheim</li><li>Fachärztliche Spitalassistenz im Bereich Konservative Orthopädie in Speyer</li><li>Fachärztliche Praxisassistenz im Bereich Konservative Orthopädie in Freiburg</li><li>Aufbau einer „Praxis für ganzheitliche Medizin“ in Karlsruhe</li><li>Beratende Tätigkeit bei der Gesellschaft für Biologische Krebsabwehr (GfBK) in Heidelberg</li><li>Hausärztliche Versorgung bei SOS Ärzte Zürich</li><li>Oktober 2016 Praxis für Schmerztherapie, Manuelle Medizin, Komplementärmedizin in der Gruppenpraxis am LUKS Sursee</li></ul>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

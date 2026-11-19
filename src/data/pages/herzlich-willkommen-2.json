@@ -1,0 +1,97 @@
+{
+ "slug": "herzlich-willkommen-2",
+ "kind": "post",
+ "title": "Herzlich Willkommen – Dr. Dahn",
+ "description": "Ihr Anliegen, Ihre Bedürfnisse und Wünsche stehen bei mir im Mittelpunkt. Im Rahmen der Vorbeugung und Behandlung von akuten und chronischen Gesundheitsstörungen begleite ich Sie mit einem ganzheitlichen medizinischen Blickwinkel – von Geburt an bis ins hohe Alter.Ich bin Arzt, der sich auf Anästhesie und Schmerztherapie spezialisiert hat. Während meiner Laufbahn habe ich mein schulmedizinisches Spektrum um wirksame Methoden aus der Komplementärmedizin erweitert. All diese kann ich Ihnen in meiner Praxis vertrauensvoll anbieten.Auf dem Gebiet der Schmerztherapie behandle ich die Ursachen der Schmerzentstehung, um eine langfristige Milderung oder gar Schmerzfreiheit herbeizuführen.In mein ganzheitliches Behandlungskonzept integriere ich eine Reihe von schul- und komplementärmedizinischen Verfahren wie beispielsweise Manuelle Medizin, Neuraltherapie, Ärztliche Kinesiologie, Homöopathie, Muskel-Akupunktur, PEP*, Shonishin**, IHHT*** oder den Aufbau des (Darm-) Immunsystems.Die Manuelle Medizin therapiert Funktionsstörungen des Bewegungsapparats und von Inneren Organen mit dem Ziel, die Beweglichkeit und die (Organ-)Funktion wiederherzustellen. Dabei wird auf Medikamente und invasive Massnahmen verzichtet.Sie würden gerne Ihre Gesundheit und körperliche wie geistige Fitness in allen Lebensphasen in Bestform bringen oder halten? Ich helfe Ihnen, Ihre Ernährung umzustellen, “gesunde” Gedanken zu pflegen, zu mehr Bewegung und sportlicher Betätigung zu finden.Wenn Sie möchten, dass ich Hausarztfunktionen für Sie übernehme, so sprechen Sie mich bitte an. Es bestehen gute Möglichkeiten, dass die Krankenkasse zustimmt.Die Abrechnung erfolgt über die Grund- und Zusatzversicherung.Ich freue mich, Sie kennenzulernen.Ihr Dr. Jürgen Dahn",
+ "oldUrl": "/herzlich-willkommen-2/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "kids": [
+        {
+         "css": {},
+         "anchor": null,
+         "t": "image",
+         "src": "2017/01/willkommen_header.jpg",
+         "alt": "willkommen header",
+         "caption": "Sicherer Hafen",
+         "href": null,
+         "external": false,
+         "w": 1196,
+         "imgW": 1196,
+         "imgR": null,
+         "align": "center",
+         "capcss": {
+          "color": "rgb(122, 122, 122)",
+          "font-size": "20px",
+          "line-height": "28px",
+          "text-align": "center",
+          "font-style": "italic"
+         },
+         "basis": 98.36
+        },
+        {
+         "css": {
+          "padding": "15px 15px 15px 25px"
+         },
+         "anchor": null,
+         "t": "heading",
+         "tag": "h2",
+         "html": "Herzlich Willkommen",
+         "tcss": {
+          "color": "rgb(139, 195, 74)",
+          "font-size": "30px",
+          "font-weight": "500",
+          "line-height": "30px"
+         },
+         "basis": 98.36
+        },
+        {
+         "css": {},
+         "anchor": null,
+         "t": "text",
+         "html": "<p>Ihr Anliegen, Ihre Bedürfnisse und Wünsche stehen bei mir im Mittelpunkt. Im Rahmen der Vorbeugung und Behandlung von akuten und chronischen Gesundheitsstörungen begleite ich Sie mit einem ganzheitlichen medizinischen Blickwinkel – von Geburt an bis ins hohe Alter.</p><p>Ich bin Arzt, der sich auf Anästhesie und Schmerztherapie spezialisiert hat. Während meiner Laufbahn habe ich mein schulmedizinisches Spektrum um wirksame Methoden aus der Komplementärmedizin erweitert. All diese kann ich Ihnen in meiner Praxis vertrauensvoll anbieten.</p><p>Auf dem Gebiet der Schmerztherapie behandle ich die Ursachen der Schmerzentstehung, um eine langfristige Milderung oder gar Schmerzfreiheit herbeizuführen.</p><p>In mein ganzheitliches Behandlungskonzept integriere ich eine Reihe von schul- und komplementärmedizinischen Verfahren wie beispielsweise Manuelle Medizin, Neuraltherapie, Ärztliche Kinesiologie, Homöopathie, Muskel-Akupunktur, PEP*, Shonishin**, IHHT*** oder den Aufbau des (Darm-) Immunsystems.</p><p>Die Manuelle Medizin therapiert Funktionsstörungen des Bewegungsapparats und von Inneren Organen mit dem Ziel, die Beweglichkeit und die (Organ-)Funktion wiederherzustellen. Dabei wird auf Medikamente und invasive Massnahmen verzichtet.</p><p>Sie würden gerne Ihre Gesundheit und körperliche wie geistige Fitness in allen Lebensphasen in Bestform bringen oder halten? Ich helfe Ihnen, Ihre Ernährung umzustellen, “gesunde” Gedanken zu pflegen, zu mehr Bewegung und sportlicher Betätigung zu finden.</p><p>Wenn Sie möchten, dass ich Hausarztfunktionen für Sie übernehme, so sprechen Sie mich bitte an. Es bestehen gute Möglichkeiten, dass die Krankenkasse zustimmt.</p><p>Die Abrechnung erfolgt über die Grund- und Zusatzversicherung.</p><p>Ich freue mich, Sie kennenzulernen.</p><p><b>Ihr Dr. Jürgen Dahn</b></p><p><a href=\"https://www.dr-michael-bohne.de\"><strong>PEP*</strong></a> (Prozessorientierte Energetische Psychologie in Therapie und Coaching nach Dr. med. Michael Bohne): für Schmerztherapie, Kompetenz- und Selbstwerttraining sowie Auftritts- bzw. Präsentations- Coaching.</p><p><strong><a href=\"https://www.heilpraktikerschule.ch/newsroom/news-detail/news/2022/08/16/mit-einfachen-techniken-viel-erreichen\">Shonishin**</a> </strong>(nach Thomas Wernicke, Facharzt für Allgemeine Medizin): japanische Akupunktur OHNE NADEL für Säuglinge, Kinder und Erwachsene.</p><p><a href=\"https://fit4life.ch/mt-1/\"><strong>IHHT***</strong> </a>(Intervall-Hypoxie-Hyperoxie-Training), Medizin-Nobelpreis 2019 für die Sauerstoff-Steuerung in den Körperzellen. Sauerstofftraining in entspannter Ruhe für die Energiekraftwerke unserer Körperzellen mit einer gut passenden Gesichtsmaske und dem Ziel, die Leistungsfähigkeit, Konzentration und Stoffwechselaktivität unseres Körpers deutlich zu verbessern.</p>",
+         "tcss": {
+          "color": "rgb(122, 122, 122)",
+          "font-size": "20px",
+          "line-height": "30px"
+         },
+         "basis": 98.36
+        }
+       ],
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

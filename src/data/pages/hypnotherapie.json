@@ -1,0 +1,101 @@
+{
+ "slug": "hypnotherapie",
+ "kind": "post",
+ "title": "Hypnotherapie – Dr. Dahn",
+ "description": "Wissen vom Sein.\nBewusstsein Oder bewusst Sein – Der Schlüssel für inneres Ankommen, Kraft und Energie.\nEin besonderer Herzenswunsch ist es mir, Sie über meine Zusammenarbeit mit Caroline Schwenke (www.bewusstseinspraxis.ch) zu informieren.\nCaroline Schwenke, Fachärztin für Anästhesie und ehemalige Chefärztin (Service d’anesthésie, Groupe Hospitalier Bretagne Sud, Frankreich), ist als Hypnotherapeutin in eigener Praxis in Baar (Kt. Zug) niedergelassen.\nMit ihren Schwerpunkten «Hypnotherapie, Mentaltherapie, Coaching»",
+ "oldUrl": "/hypnotherapie/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2024/12/caroline.png",
+       "alt": "caroline",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Hypnotherapie",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "kids": [
+        {
+         "t": "box",
+         "row": false,
+         "css": {
+          "padding": "0px 10px 0px 10px"
+         },
+         "kids": [
+          {
+           "css": {},
+           "anchor": null,
+           "t": "text",
+           "html": "<p><strong>Wissen vom Sein. </strong></p><p><strong>Bewusstsein Oder bewusst Sein – Der Schlüssel für inneres Ankommen, Kraft und Energie.<br/><br/></strong>Ein besonderer Herzenswunsch ist es mir, Sie über meine Zusammenarbeit mit Caroline Schwenke <strong><a href=\"http://www.bewusstseinspraxis.ch\" rel=\"noopener\" target=\"_blank\">(www.bewusstseinspraxis.ch)</a></strong> zu informieren.<br/><br/>Caroline Schwenke, Fachärztin für Anästhesie und ehemalige Chefärztin (Service d’anesthésie, Groupe Hospitalier Bretagne Sud, Frankreich), ist als Hypnotherapeutin in eigener Praxis in Baar (Kt. Zug) niedergelassen.<br/><br/>Mit ihren Schwerpunkten <strong>«Hypnotherapie, Mentaltherapie, Coaching» </strong>möchte sie «Ihnen in herausfordernden Momenten eine sichere und vertrauensvolle Begleitung bieten. Und gemeinsam mit Ihnen lösungsorientierte Wege gestalten, die zu Ihrer persönlichen Situation passen, sodass Sie das Leben aktiv nach Ihren Vorstellungen formen können.» gibt sie Ihnen die Unterstützung «belastende Denk- und Verhaltensmuster zu lösen und einschränkende Gewohnheiten gezielt zu verändern.<br/><br/>Dadurch entsteht Raum für persönliche Entwicklung und authentische Entfaltung im Alltag.»<br/>Hypnose ist ein Zustand tiefer Entspannung und erhöhter Konzentration, in dem das Unterbewusstsein empfänglich für positive Veränderungen wird.<br/><br/>Hypnotherapie nutzt Hypnose gezielt als therapeutisches Werkzeug, um Verhaltensmuster, Ängste oder Blockaden zu lösen und persönliches Wohlbefinden zu fördern.<br/><br/>Mentaltraining ist die gezielte Schulung von Gedanken und Emotionen zur Steigerung von Fokus, Resilienz und persönlichem Erfolg.<br/><br/>Coaching ist ein Prozess der zielgerichteten Unterstützung und Reflexion, in dem Sie Klarheit gewinnen, Ihre Stärken entfalten und konkrete Schritte zur Erreichung Ihrer persönlichen oder beruflichen Ziele entwickeln.<br/><br/>Sie werden ihr wertvolles Wissen und Können erfahren als</p><ul><li>«praktischer Einstieg in die Kunst, das eigene Leben bewusst zu erschaffen.»<br/><br/></li><li>«Möglichkeit Ihr Wohlbefinden und Ihre Lebensqualität spürbar zu steigern.»<br/><br/></li><li>«Weg zu neuen Perspektiven auf sich selbst und Ihre Umwelt.»</li></ul><p><br/>Sie dürfen sehr gerne telefonisch einen Termin mit ihr in meiner Praxis buchen oder sich in ihrer Praxis in Baar aufbieten.<br/>Ein Termin dauert ca. 90 Minuten.</p><p>Das Angebot von Caroline Schwenke ist eine Selbstzahlerleistung.</p>",
+           "tcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "20px",
+            "line-height": "30px"
+           },
+           "basis": 100.0
+          }
+         ],
+         "anchor": null
+        }
+       ],
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

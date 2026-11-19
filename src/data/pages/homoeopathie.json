@@ -1,0 +1,78 @@
+{
+ "slug": "homoeopathie",
+ "kind": "post",
+ "title": "Homöopathie – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/homoeopathie/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2022/01/sunrise-behind-a-mighty-oak-tree-2021-09-01-04-49-57-utc.jpg",
+       "alt": "dr dahn pop up",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Homöopathie",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p><span style=\"font-weight: 400;\">Aufgrund ihrer sanften Wirkweise ist die Homöopathie eine beliebte alternative Heilmethode, die sich für Menschen jeden Alters eignet. </span></p><p><span style=\"font-weight: 400;\">Besonders junge Eltern sind der Homöopathie gegenüber aufgeschlossen. Sie möchten eine Behandlung ihrer Kinder mit Arzneimitteln vermeiden, deren Immunabwehr im Winter stärken oder schnelle Linderung bei kleinen Verletzungen herbeiführen. Globuli wie Arnica oder Belladonna sind inzwischen fester Bestandteil der Hausapotheken vieler Familien und werden auch von den Erwachsenen für sich selbst genutzt. </span></p><p><span style=\"font-weight: 400;\">Mit homöopathischen Mitteln kann eine Vielzahl von Beschwerden ohne schädliche Nebenwirkungen behandelt werden. Dabei kommen stark verdünnte Wirkstoffe aus der Pflanzen-, Tier- und Mineralwelt zum Einsatz.</span></p><p><span style=\"font-weight: 400;\">Klassische Einsatzgebiete der Homöopathie sind reversible Beschwerden wie:</span></p><ul><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Erkrankungen der Wirbelsäule, der Muskeln, der Gelenke oder der Haut </span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">wiederkehrende Erkrankungen wie Mandel- und Blasenentzündungen </span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Menstruationsbeschwerden</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Stoffwechselstörungen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">vor und nach Operationen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">bei Krebserkrankungen vor, während und nach Chemotherapie oder Bestrahlung zur Minderung von Nebenwirkungen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">psychische Belastungssituationen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Unverträglichkeiten und Allergien</span></li></ul><p><span style=\"font-weight: 400;\">“Ähnliches mit Ähnlichem behandeln” ist der Grundgedanke der homöopathischen Medizin, die von dem Arzt Samuel Hahnemann um 1800 begründet wurde. Dabei verfeinert sein Ansatz Überlegungen, die sich bis zu Hippokrates und Paracelsus zurückverfolgen lassen: Wirkstoffe, die bei Gesunden ein Krankheitsgefühl hervorrufen, aktivieren in verdünnter Dosierung bei Erkrankten die Selbstheilungskräfte und verhelfen zur Wiederherstellung der Gesundheit. Homöopathische Leistungen werden von der Grundversicherung übernommen. </span></p><p><span style=\"font-weight: 400;\">In ihrem ganzheitlichen Ansatz stellt die Homöopathie Sie als Individuum in den Mittelpunkt. Jeder Behandlung geht eine ausführliche Befundaufnahme voran. In einem intensiven Gespräch erfasse ich die individuellen Besonderheiten Ihrer Haupt- und Nebenbeschwerden und entwickle darauf aufbauend Ihr persönliches Therapiekonzept. </span></p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

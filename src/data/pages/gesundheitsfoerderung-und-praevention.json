@@ -1,0 +1,78 @@
+{
+ "slug": "gesundheitsfoerderung-und-praevention",
+ "kind": "post",
+ "title": "Gesundheitsförderung und Prävention – Dr. Dahn",
+ "description": "Bewegung an der frischen Luft, eine vollwertige Ernährung und ein gefestigter Geist sind die besten Voraussetzungen für ein gesundes Leben. Gerade das machen die Anforderungen der Moderne uns jedoch nicht immer einfach.",
+ "oldUrl": "/gesundheitsfoerderung-und-praevention/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2017/01/gesundheitsfrderung-e1483458428250.jpg",
+       "alt": "gesundheitsförderung",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Gesundheitsförderung und Prävention",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Bewegung an der frischen Luft, eine vollwertige Ernährung und ein gefestigter Geist sind die besten Voraussetzungen für ein gesundes Leben. Gerade das machen die Anforderungen der Moderne uns jedoch nicht immer einfach. Während in den Industrieländern die Lebenserwartung immer weiter steigt, verringert sich die Lebensqualität auf drastische Weise. Wir bewegen uns zu wenig, rauchen, trinken Alkohol, sind im Dauerstress und ernähren uns unausgewogen.</p><p>Unter den Begriffen Gesundheitsförderung und Prävention werden Vorgehensweisen zusammengefasst, mit denen wir unsere Gesundheit aktiv und positiv gestalten können. Sie zielen auf die Stärkung unserer Eigenkräfte ab und beugen nicht nur Krankheiten vor, sondern stabilisieren unsere Gesundheit. Präventive Verfahren wirken sich positiv auf unser Immunsystem sowie unsere körperliche und geistige Leistungsfähigkeit aus.</p><p>Präventionsmassnahmen sind natürlich am vielversprechendsten, wenn sie schon bei gesunden Menschen ansetzen. Doch auch nach dem Ausbruch einer Krankheit sind sie sinnvoll, damit die Symptome sich nicht verschlimmern und die Genesung unterstützt wird.</p><p>Viele Methoden wirken gesundheitsfördernd und krankheitsvorbeugend. Sie richten sich nach Ihrem individuellen Bedarf. Zur Stärkung Ihrer körperlichen Eigenkräfte biete ich Ihnen unter anderem an:</p><ul><li><a href=\"/manuelle-medizin/\">Manuelle Medizin</a></li><li><a href=\"/homoeopathie/\">Homöopathie</a></li><li><a href=\"/muskel-akupunktur/\">Muskel-Akupunktur</a></li><li><a href=\"/neuraltherapie/\">Neuraltherapie</a></li><li><a href=\"/vitamin-und-spurenelementgabe/\">Vitamin- und Spurenelementgabe</a></li><li><a href=\"/aufbau-des-immunsystems-im-darm/\">Aufbau des Immunsystems im Darm</a></li><li><a href=\"/psychische-staerkung/\">Psychische Stärkung mit Autogenem Training und Visualisierungen</a></li><li><a href=\"/ernaehrung/\">Ernährungsberatung und -umstellung</a></li><li><a href=\"/psychische-staerkung/\">gesundes Stressmanagement durch psychische Stärkung</a></li><li><a href=\"/bewegung/\">Anregung zu körperlicher Bewegung</a></li></ul><p>Wer sich dafür entschieden hat, wird rasch erkennen: Es ist ein wunderbares Gefühl, etwas für seine Gesundheit zu tun. Sie nehmen die Verantwortung gegenüber Ihrem Körper und Ihrer Psyche ernst und werden dafür belohnt: Ihr Wohlergehen und Ihre Leistungsfähigkeit werden sich merklich verbessern!</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

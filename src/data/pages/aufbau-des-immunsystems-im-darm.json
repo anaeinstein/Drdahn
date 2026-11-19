@@ -1,0 +1,78 @@
+{
+ "slug": "aufbau-des-immunsystems-im-darm",
+ "kind": "post",
+ "title": "Aufbau des Immunsystems im Darm – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/aufbau-des-immunsystems-im-darm/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2022/01/sunrise-behind-a-mighty-oak-tree-2021-09-01-04-49-57-utc.jpg",
+       "alt": "dr dahn pop up",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Aufbau des Immunsystems im Darm",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Der Darm gehört zu unseren wichtigsten Organen: Das bis zu 8 Meter lange Schlingensystem filtert nicht nur wichtige Bestandteile aus unserer Nahrung, sondern beherbergt auch rund 80% unseres Immunsystems. Hier wird ein Grossteil der Abwehrzellen unseres Körpers gebildet.</p><p><span style=\"font-weight: 400;\">In unserem Darm befinden sich 100 Billionen Mikroorganismen, die unsere Darmflora bilden. Ihr kommen viele wichtige Aufgaben zu: Sie stoppt die Vermehrung von Krankheitserregern und steuert die Aufnahme fremder Stoffe über die Darmschleimhaut. Dadurch ist sie massgeblich mit dem Immunsystem verbunden. </span></p><p><span style=\"font-weight: 400;\">Gerät die Darmflora aus dem Gleichgewicht, so wird das Immunsystem geschwächt. Unvollständig verdaute Nahrungsmittelbestandteile oder Bakterien und Pilze, die ihren Lebensraum normalerweise nur im Darm haben, können die Abwehrbarriere der Darmschleimhaut durchwandern. Dies kann im Körper mannigfaltige Beschwerden verursachen. Ein schwaches Immunsystem kann zudem Überreaktionen auf eigentlich unschädliche Stoffe auslösen und Allergien begünstigen. Antibiotika schädigen die Darmflora auf besondere Weise, da sie nicht nur krankmachende Bakterien im Körper, sondern auch gesunde Bakterien im Darm abtöten.</span></p><p><span style=\"font-weight: 400;\">Ein Aufbau des Immunsystems im Darm ist in vielen Fällen empfehlenswert und hat sich bewährt bei:</span></p><ul><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Infektanfälligkeit</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Verdauungsstörungen</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Konzentrationsstörungen, Kopfschmerzen, Migräne</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">verminderter körperlicher und psychischer Leistungsfähigkeit</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">rheumatischen Beschwerden an Muskeln und Gelenken</span></li><li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Krebserkrankungen</span></li></ul><p><span style=\"font-weight: 400;\">Durch die Gabe medizinischer Probiotika kann Ihre Darmflora schonend regeneriert und derart gestärkt werden, dass das Immunsystem seine Arbeit wieder im erforderlichen Masse aufnehmen kann. Der Aufbau der Darmschleimhaut kann überdies durch Ernährung unterstützt werden. </span></p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

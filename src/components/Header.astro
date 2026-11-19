@@ -1,0 +1,58 @@
+---
+import { Image } from 'astro:assets';
+import { media } from '../lib/media';
+import menu from '../data/menu.json';
+import Icon from './Icon.astro';
+const logo = media('2017/01/ae_dahn-logo-id-und-type_schrift_klein.png')!;
+const isHome = Astro.url.pathname === '/';
+---
+<header class="site-header">
+  <div class="bar">
+    <a class="logo" href="/" aria-label="Dr. Dahn – Startseite">
+      <Image src={logo} alt="dr_dahn_logo" width={354} loading="eager" />
+    </a>
+    <nav class="nav" aria-label="Hauptmenü">
+      <ul>
+        {menu.map((m: any) => (
+          <li>
+            {m.children ? (
+              <>
+                <button class="parent" type="button" aria-haspopup="true">{m.label}<Icon name="chev" /></button>
+                <ul class="sub">
+                  {m.children.map((c: any) => <li><a href={c.href}>{c.label}</a></li>)}
+                </ul>
+              </>
+            ) : (
+              <a href={m.href} aria-current={isHome && m.href === '/' ? 'page' : undefined}>{m.label}</a>
+            )}
+          </li>
+        ))}
+      </ul>
+    </nav>
+    <details class="menu-toggle">
+      <summary aria-label="Menü öffnen"><Icon name="bars" /></summary>
+      <div class="mobile">
+        <ul>
+          {menu.map((m: any) => (
+            <li>
+              {m.children ? (
+                <>
+                  <span class="label">{m.label}</span>
+                  <ul>{m.children.map((c: any) => <li><a href={c.href}>{c.label}</a></li>)}</ul>
+                </>
+              ) : (
+                <a href={m.href}>{m.label}</a>
+              )}
+            </li>
+          ))}
+        </ul>
+      </div>
+    </details>
+  </div>
+</header>
+<script>
+  // Mobiles Menü nach Klick auf einen Anker schliessen
+  document.querySelectorAll<HTMLAnchorElement>('.menu-toggle a').forEach((a) =>
+    a.addEventListener('click', () => a.closest('details')?.removeAttribute('open')),
+  );
+</script>

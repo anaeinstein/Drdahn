@@ -1,0 +1,50 @@
+---
+import { getImage } from 'astro:assets';
+import { media } from '../lib/media';
+import videos from '../data/videos.json';
+import Icon from './Icon.astro';
+
+const items = await Promise.all(videos.items.map(async (v: any) => {
+  const local = media(v.thumb);
+  const thumb = local
+    ? (await getImage({ src: local, width: 1280, format: 'webp' })).src
+    : `https://i.ytimg.com/vi/${v.id}/maxresdefault.jpg`;
+  return { ...v, thumb };
+}));
+const first = items[0];
+---
+<div class="playlist" data-playlist>
+  <div class="stage">
+    <img src={first.thumb} alt="" loading="lazy" data-thumb />
+    <button type="button" data-play aria-label={`Video abspielen: ${first.title}`}><span><Icon name="play" /></span></button>
+  </div>
+  <div class="list">
+    <header><b>{videos.title}</b><span>{items.length} Videos</span></header>
+    {items.map((v, i) => (
+      <button type="button" data-video={v.id} data-thumb-src={v.thumb} data-title={v.title} aria-current={i === 0 ? 'true' : 'false'}>
+        <span>{v.title}</span><small>{v.duration}</small>
+      </button>
+    ))}
+  </div>
+</div>
+
+<script>
+  // Lädt das YouTube-Video erst beim Klick (datenschutzfreundlich, schnell).
+  for (const pl of document.querySelectorAll<HTMLElement>('[data-playlist]')) {
+    const stage = pl.querySelector<HTMLElement>('.stage')!;
+    const buttons = [...pl.querySelectorAll<HTMLButtonElement>('[data-video]')];
+    let current = buttons[0];
+    const show = (btn: HTMLButtonElement, autoplay: boolean) => {
+      current = btn;
+      buttons.forEach((b) => b.setAttribute('aria-current', String(b === btn)));
+      if (autoplay) {
+        stage.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${btn.dataset.video}?autoplay=1&rel=0" title="${btn.dataset.title}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+      } else {
+        const img = stage.querySelector<HTMLImageElement>('[data-thumb]');
+        if (img) img.src = btn.dataset.thumbSrc!;
+      }
+    };
+    stage.querySelector('[data-play]')?.addEventListener('click', () => show(current, true));
+    buttons.forEach((b) => b.addEventListener('click', () => show(b, true)));
+  }
+</script>

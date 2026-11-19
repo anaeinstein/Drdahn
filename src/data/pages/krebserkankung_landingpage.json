@@ -1,0 +1,319 @@
+{
+ "slug": "krebserkankung_landingpage",
+ "kind": "landing",
+ "title": "Krebserkankung_landingpage – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/krebserkankung_landingpage/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(225, 225, 225)",
+    "padding": "0px 10px 0px 10px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(234, 234, 234)"
+     },
+     "kids": [
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "background-color": "rgb(255, 255, 255)",
+        "border": "3px solid rgb(139, 195, 74)",
+        "border-left-width": "0",
+        "border-right-width": "0",
+        "min-height": "191px"
+       },
+       "kids": [
+        {
+         "css": {
+          "padding": "50px 0px 50px 100px"
+         },
+         "anchor": null,
+         "t": "image",
+         "src": "2017/01/ae_dahn-logo-id-und-type_schrift_klein.png",
+         "alt": "dr_dahn_logo",
+         "caption": "",
+         "href": null,
+         "external": false,
+         "w": 1280,
+         "imgW": 354,
+         "imgR": null,
+         "align": "start",
+         "capcss": {},
+         "basis": 100.0
+        }
+       ],
+       "anchor": null,
+       "basis": 100.0
+      },
+      {
+       "t": "box",
+       "row": false,
+       "css": {},
+       "kids": [
+        {
+         "css": {},
+         "anchor": null,
+         "t": "image",
+         "src": "2017/01/krebserkrankung-e1685104507225.jpg",
+         "alt": "krebserkrankung",
+         "caption": "",
+         "href": null,
+         "external": false,
+         "w": 1280,
+         "imgW": 1280,
+         "imgR": null,
+         "align": "center",
+         "capcss": {},
+         "basis": 100.0
+        }
+       ],
+       "anchor": null,
+       "basis": 100.0
+      },
+      {
+       "t": "box",
+       "row": false,
+       "css": {
+        "background-color": "rgb(255, 255, 255)",
+        "padding": "0px 20px 0px 20px"
+       },
+       "kids": [
+        {
+         "css": {
+          "padding": "15px 15px 15px 25px"
+         },
+         "anchor": null,
+         "t": "heading",
+         "tag": "h2",
+         "html": "Herzlich Willkommen auf der Landing Page «Krebs<br/> von Dr. med. Jürgen Dahn, CH-6210 Sursee",
+         "tcss": {
+          "color": "rgb(139, 195, 74)",
+          "font-size": "30px",
+          "font-weight": "500",
+          "line-height": "30px"
+         },
+         "basis": 100.0
+        },
+        {
+         "css": {
+          "padding": "10px 10px 10px 10px",
+          "border": "1px solid rgb(224, 224, 224)",
+          "margin-left": "5px"
+         },
+         "anchor": null,
+         "t": "text",
+         "html": "<p>Bei einer Krebserkrankung sind schulmedizinische Methoden wie Operation, Chemotherapie aber auch Bestrahlung notwendig. Diese Behandlungsformen gehen jedoch mit starken Belastungen für den Körper einher. Mit einer sanften Begleitung durch komplementärmedizinische Methoden und Manuelle Medizin können Nebenwirkungen gelindert und ein positiver Heilungsverlauf unterstützt werden.</p><p>Das komplementärmedizinische Vorgehen bei Krebserkrankungen hat das Ziel, die körpereigenen Kräfte zu aktivieren. Sie als Patient können so “von innen heraus” zu Ihrer Genesung beitragen und die Wirksamkeit der konventionellen Therapie verstärken. Die Integration komplementärmedizinischer Elemente in Ihre Krebstherapie bringt folgende Vorteile:</p><ul><li>Reduzierung von Nebenwirkungen starker Medikamente</li><li>Stabilisierung des physischen und psychischen Allgemeinbefindens</li><li>Verbesserung der Lebensqualität</li><li>Verlängerung der Gesamtlebenszeit</li></ul><p>Eine komplementärmedizinische Begleitung ist sowohl vor, während und nach den schulmedizinischen Massnahmen empfehlenswert.</p><p>Es ist mir ein wichtiges Anliegen, Sie dabei zu unterstützen, optimistisch in die Zukunft blicken zu können.</p><p>Hinter den schul- und komplementärmedizinischen Methoden, die ich anbiete, stehe ich zu 100%.</p><p><strong>Herzlich, Ihr Jürgen Dahn</strong></p>",
+         "tcss": {
+          "color": "rgb(122, 122, 122)",
+          "font-size": "20px",
+          "line-height": "30px"
+         },
+         "basis": 100.0
+        },
+        {
+         "t": "box",
+         "row": false,
+         "css": {
+          "background-color": "rgb(255, 255, 255)"
+         },
+         "kids": [
+          {
+           "t": "box",
+           "row": false,
+           "css": {
+            "background-color": "rgb(255, 255, 255)",
+            "padding": "0px 20px 0px 20px"
+           },
+           "kids": [
+            {
+             "t": "box",
+             "row": true,
+             "css": {
+              "background-color": "rgb(255, 255, 255)",
+              "padding": "0px 10px 0px 10px"
+             },
+             "kids": [
+              {
+               "css": {},
+               "anchor": null,
+               "t": "button",
+               "text": "Hier geht es zur meiner Dr Dahn  Praxis Website.",
+               "href": "/",
+               "external": false,
+               "align": "center",
+               "btn": {
+                "paddingTop": "20px",
+                "paddingRight": "40px",
+                "paddingBottom": "20px",
+                "paddingLeft": "40px",
+                "fontSize": "15px",
+                "borderRadius": "5px",
+                "backgroundColor": "rgb(139, 195, 74)",
+                "color": "rgb(255, 255, 255)",
+                "fontWeight": "500",
+                "w": 408
+               },
+               "icon": null,
+               "basis": 49.15
+              },
+              {
+               "css": {},
+               "anchor": null,
+               "t": "button",
+               "text": "Jetzt Online Termin Buchen!",
+               "href": "/#reservierungs",
+               "external": false,
+               "align": "center",
+               "btn": {
+                "paddingTop": "20px",
+                "paddingRight": "40px",
+                "paddingBottom": "20px",
+                "paddingLeft": "40px",
+                "fontSize": "15px",
+                "borderRadius": "5px",
+                "backgroundColor": "rgb(139, 195, 74)",
+                "color": "rgb(255, 255, 255)",
+                "fontWeight": "500",
+                "w": 268
+               },
+               "icon": null,
+               "basis": 49.15
+              }
+             ],
+             "anchor": null,
+             "basis": 100.0
+            }
+           ],
+           "anchor": null,
+           "basis": 100.0
+          },
+          {
+           "css": {},
+           "anchor": null,
+           "t": "divider",
+           "icon": true,
+           "basis": 100.0
+          },
+          {
+           "css": {},
+           "anchor": null,
+           "t": "social",
+           "items": [
+            {
+             "href": "https://www.facebook.com/drmedjuergendahn/",
+             "kind": "facebook"
+            },
+            {
+             "href": "https://www.youtube.com/channel/UCsykSI1jc94HkjtBYqTsUVw",
+             "kind": "youtube"
+            }
+           ],
+           "align": "center",
+           "basis": 7.58
+          },
+          {
+           "css": {
+            "padding": "15px 15px 15px 25px"
+           },
+           "anchor": null,
+           "t": "heading",
+           "tag": "h2",
+           "html": "Kontakt",
+           "tcss": {
+            "color": "rgb(139, 195, 74)",
+            "font-size": "30px",
+            "font-weight": "500",
+            "line-height": "30px"
+           },
+           "basis": 11.69
+          }
+         ],
+         "anchor": null,
+         "basis": 100.0
+        },
+        {
+         "t": "box",
+         "row": true,
+         "css": {
+          "background-color": "rgb(255, 255, 255)",
+          "padding": "0px 10px 0px 10px"
+         },
+         "kids": [
+          {
+           "css": {
+            "padding": "10px 10px 10px 10px",
+            "border": "1px solid rgb(224, 224, 224)"
+           },
+           "anchor": null,
+           "t": "text",
+           "html": "<ol><li><p><strong>Adresse<br/></strong>Dr. med. Jürgen Dahn<br/>Gruppenpraxis<br/>Spitalstr.18, 6210 Sursee<br/>Tel. : 041 926 71 00<br/>Fax : 041 926 71 01</p></li><li><p><a href=\"mailto:info@drdahn.ch\">info@drdahn.ch<br/></a><a href=\"/\">www.drdahn.ch<br/></a>Besuchen Sie uns auch auf <a href=\"https://www.facebook.com/drmedjuergendahn/\">facebook</a> und auf <br/>meinem <a href=\"https://www.youtube.com/channel/UCsykSI1jc94HkjtBYqTsUVw\">youtube channel</a></p><p> </p></li></ol>",
+           "tcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "20px",
+            "line-height": "30px"
+           },
+           "basis": 36.42
+          },
+          {
+           "css": {},
+           "anchor": null,
+           "t": "image",
+           "src": "2023/03/drDahn_smallerLanding.jpg",
+           "alt": "",
+           "caption": "Dr Jürgen Dahn <br/> Schmerztherapie. Manuelle Medizin. Komplementärmedizin.",
+           "href": "/",
+           "external": false,
+           "w": 291,
+           "imgW": 291,
+           "imgR": null,
+           "align": "center",
+           "capcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "12px",
+            "line-height": "16.8px",
+            "text-align": "center",
+            "font-style": "italic"
+           },
+           "basis": 23.88
+          },
+          {
+           "css": {
+            "padding": "10px 10px 10px 10px",
+            "border": "1px solid rgb(224, 224, 224)",
+            "margin-left": "5px"
+           },
+           "anchor": null,
+           "t": "text",
+           "html": "<strong>Telefonsprechzeiten</strong><p>Montag – Donnerstag<br/>08:30 – 11:30 Uhr<br/>14:00 – 16:30 Uhr</p><p><strong>Öffnungszeiten<br/></strong>Montag – Donnerstag<br/>08:00 – 12:00 Uhr<br/>14:00 – 18:00 Uhr</p><p>Freitag<br/>08:00 – 12:00 Uhr</p>",
+           "tcss": {
+            "color": "rgb(122, 122, 122)",
+            "font-size": "20px",
+            "line-height": "30px"
+           },
+           "basis": 36.42
+          }
+         ],
+         "anchor": null,
+         "basis": 100.0
+        }
+       ],
+       "anchor": null,
+       "basis": 100.0
+      }
+     ],
+     "anchor": null,
+     "basis": 90.14
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

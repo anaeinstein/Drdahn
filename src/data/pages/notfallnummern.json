@@ -1,0 +1,78 @@
+{
+ "slug": "notfallnummern",
+ "kind": "post",
+ "title": "Notfallnummern – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/notfallnummern/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2022/01/sunrise-behind-a-mighty-oak-tree-2021-09-01-04-49-57-utc.jpg",
+       "alt": "dr dahn pop up",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Notfallnummern",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Spital Sursee: 041 926 45 45<br/> Sanitätsnotruf: 144<br/> Frauenhaus Luzern: 041 360 70 00<br/> Apotheken-Notfalltelefon: 041 211 33 33<br/> Bahnhof Drogerie Apotheke Luzern: täglich Mo-Sa 7.30-21h So 9.00-19h, Tel.: 041 220 13 13</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

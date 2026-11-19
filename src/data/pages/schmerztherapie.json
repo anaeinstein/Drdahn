@@ -1,0 +1,78 @@
+{
+ "slug": "schmerztherapie",
+ "kind": "post",
+ "title": "Schmerztherapie – Dr. Dahn",
+ "description": "Stechend, drückend, beissend, brennend: Schmerzen sind vielschichtig und werden von jedem Menschen unterschiedlich empfunden. Unangenehm sind sie in jedem Fall. Manchmal ist sogar eine Operation notwendig.\nSchmerzen können ganz plötzlich beginnen.",
+ "oldUrl": "/schmerztherapie/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {},
+       "anchor": null,
+       "t": "image",
+       "src": "2016/08/schmerztherapie-1-e1483460060746.jpg",
+       "alt": "schmerztherapie",
+       "caption": "",
+       "href": null,
+       "external": false,
+       "w": 1278,
+       "imgW": 1278,
+       "imgR": null,
+       "align": "center",
+       "capcss": {},
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "Schmerztherapie",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Stechend, drückend, beissend, brennend: Schmerzen sind vielschichtig und werden von jedem Menschen unterschiedlich empfunden. Unangenehm sind sie in jedem Fall. Manchmal ist sogar eine Operation notwendig.</p><p>Schmerzen können ganz plötzlich beginnen. In diesem akuten Zustand sind sie als Warnsignal zu verstehen, das unsere Aufmerksamkeit an den entsprechenden Schmerzort lenken soll. Oft ist dies bei Gelenkschmerzen nach einer “falschen Bewegung” der Fall.</p><p>Ist der Schmerz durch einen lang anhaltenden Verlauf chronisch geworden und in die Nervenzellen eingespeichert, entwickelt der Körper ein Schmerzgedächtnis, das schon auf leichte Reize mit Schmerzempfinden reagiert.</p><p>Chronische Schmerzen beeinträchtigen nicht nur die Funktion unseres Körpers, sondern färben auf unser soziales Leben und unsere seelische Verfassung ab. Deshalb sollten sie von Anfang an gezielt behandelt werden.</p><p>Rückenschmerzen gehören zu den häufigsten akuten und chronischen Beschwerden unserer Zeit. Die modernen Lebensbedingungen wirken einer korrekten Körperhaltung an vielen Punkten entgegen: Wir sitzen den ganzen Tag vor dem Computer, heben zu schwer oder nicht rückengerecht, bewegen uns wenig und ernähren uns ungesund, um nur einige typische Faktoren zu nennen.</p><p>Ich behandle akute und chronische Schmerzen wie</p><ul><li>Rückenschmerzen</li><li>Beckenschmerzen</li><li>Muskel- und Gelenkschmerzen</li><li>Kopfschmerzen</li><li>Bauchschmerzen</li><li>Krebsschmerzen</li></ul><p>Standardmässig werden Schmerzen von der Schulmedizin mit Tabletten, Schmerzpflastern, Infusionen oder Injektionen unterdrückt. Oft werden die Ursachen nicht behandelt. Die Nachteile liegen auf der Hand: Nebenwirkungen durch die Wirkstoffe oder deren Abbauprodukte können neue körperliche Beschwerden hervorrufen.</p><p>Die standardisierte Medikamentengabe berücksichtigt selten die Individualität des Einzelnen. Im Sinne meines ganzheitlichen und individuell auf Sie abgestimmten Behandlungskonzepts greife ich auf eine Reihe von komplementärmedizinischen Methoden zurück, die Schmerzlinderung oder Schmerzfreiheit ohne “chemische Keule” herbeiführen können.</p><p>Selbst Krebsschmerzen oder eine schwere Verletzung können parallel zur schulmedizinischen Therapie durch solche sanften Methoden der Stabilisierung gelindert werden.</p><p>Homöopathische Produkte und psychische Stärkung gewinnen als Ersatz für Tabletten immer mehr an Bedeutung. Śanfte Methoden wie muskuläre Akupunktur, die Orthomolekulare Therapie und besonders die Manuelle Medizin sind auf dem Gebiet der Schmerztherapie sehr effektiv. Eine Ernährungsumstellung kann ebenfalls wichtige Akzente setzen.</p><p>In schweren Fällen kann die Neuraltherapie Abhilfe schaffen. Hier wird lokal oder intravenös ein Lokalanästhetikum injiziert, das die Heilung fördert und die Erholung des Körpers vom Schmerz unterstützt.</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}

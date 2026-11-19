@@ -1,0 +1,62 @@
+{
+ "slug": "online-terminbuchung",
+ "kind": "post",
+ "title": "ONLINE TERMINBUCHUNG – Dr. Dahn",
+ "description": "",
+ "oldUrl": "/online-terminbuchung/",
+ "tree": [
+  {
+   "t": "box",
+   "row": false,
+   "css": {
+    "background-color": "rgb(228, 228, 228)",
+    "margin-top": "20px"
+   },
+   "kids": [
+    {
+     "t": "box",
+     "row": false,
+     "css": {
+      "background-color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(224, 224, 224)"
+     },
+     "kids": [
+      {
+       "css": {
+        "padding": "0px 0px 0px 80px"
+       },
+       "anchor": null,
+       "t": "heading",
+       "tag": "h1",
+       "html": "ONLINE TERMINBUCHUNG",
+       "tcss": {
+        "color": "rgb(139, 195, 74)",
+        "font-size": "30px",
+        "font-weight": "500",
+        "line-height": "30px"
+       },
+       "basis": 99.84
+      },
+      {
+       "css": {
+        "padding": "10px 10px 10px 10px",
+        "border": "1px solid rgb(216, 216, 216)",
+        "margin-top": "20px",
+        "margin-bottom": "20px",
+        "margin-left": "20px",
+        "margin-right": "20px"
+       },
+       "anchor": null,
+       "t": "content",
+       "html": "<p>Hier können Sie selbst einfach und sicher einen Termin in meiner Praxis reservieren. Bitte beachten Sie, dass Ihre Reservierung verbindlich ist. Falls Sie den Termin nicht wahrnehmen können, kontaktieren Sie uns bitte mindestens 24 Stunden im Voraus. Nach abgeschlossener Buchung erhalten Sie eine Bestätigung. Für besondere Termin-Anfragen und in Notfällen wenden Sie sich bitte telefonisch an: 041 – 926 71 00. Die Abrechnung erfolgt über die Grundversicherung.</p><p>                   \n</p>",
+       "basis": 99.84
+      }
+     ],
+     "anchor": null,
+     "basis": 88.89
+    }
+   ],
+   "anchor": null
+  }
+ ]
+}
